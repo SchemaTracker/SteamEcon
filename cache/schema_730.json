@@ -1,0 +1,4863 @@
+{
+  "status": 1,
+  "items_game_url": "http://media.steampowered.com/apps/730/scripts/items/items_game.08a01f82165fa80e60aa2484886ef9c6dc78f507.txt",
+  "qualities": {
+    "normal": 0,
+    "genuine": 1,
+    "vintage": 2,
+    "unusual": 3,
+    "unique": 4,
+    "community": 5,
+    "developer": 6,
+    "selfmade": 7,
+    "customized": 8,
+    "strange": 9,
+    "completed": 10,
+    "haunted": 11,
+    "tournament": 12
+  },
+  "qualityNames": {
+    "normal": "Normal",
+    "genuine": "genuine",
+    "vintage": "Vintage",
+    "unusual": "★",
+    "unique": "Unique",
+    "community": "Community",
+    "developer": "Valve",
+    "selfmade": "Prototype",
+    "customized": "Customized",
+    "strange": "StatTrak™",
+    "completed": "Completed",
+    "haunted": "haunted",
+    "tournament": "Souvenir"
+  },
+  "originNames": [
+    {
+      "origin": 0,
+      "name": "Timed Drop"
+    },
+    {
+      "origin": 1,
+      "name": "Achievement"
+    },
+    {
+      "origin": 2,
+      "name": "Purchased"
+    },
+    {
+      "origin": 3,
+      "name": "Traded"
+    },
+    {
+      "origin": 4,
+      "name": "Crafted"
+    },
+    {
+      "origin": 5,
+      "name": "Store Promotion"
+    },
+    {
+      "origin": 6,
+      "name": "Gifted"
+    },
+    {
+      "origin": 7,
+      "name": "Support Granted"
+    },
+    {
+      "origin": 8,
+      "name": "Found in Crate"
+    },
+    {
+      "origin": 9,
+      "name": "Earned"
+    },
+    {
+      "origin": 10,
+      "name": "Third-Party Promotion"
+    },
+    {
+      "origin": 11,
+      "name": "Wrapped Gift"
+    },
+    {
+      "origin": 12,
+      "name": "Halloween Drop"
+    },
+    {
+      "origin": 13,
+      "name": "Steam Purchase"
+    },
+    {
+      "origin": 14,
+      "name": "Foreign Item"
+    },
+    {
+      "origin": 15,
+      "name": "CD Key"
+    },
+    {
+      "origin": 16,
+      "name": "Collection Reward"
+    },
+    {
+      "origin": 17,
+      "name": "Preview Item"
+    },
+    {
+      "origin": 18,
+      "name": "Steam Workshop Contribution"
+    },
+    {
+      "origin": 19,
+      "name": "Periodic Score Reward"
+    },
+    {
+      "origin": 20,
+      "name": "Recycling"
+    },
+    {
+      "origin": 21,
+      "name": "Tournament Drop"
+    },
+    {
+      "origin": 22,
+      "name": "Stock Item"
+    }
+  ],
+  "items": [
+    {
+      "name": "weapon_deagle",
+      "defindex": 1,
+      "item_class": "weapon_deagle",
+      "item_type_name": "Pistol",
+      "item_name": "Desert Eagle",
+      "item_description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_deagle",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_deagle.29e8f0d7d0be5e737d4f663ee8b394b5c9e00bdd.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_elite",
+      "defindex": 2,
+      "item_class": "weapon_elite",
+      "item_type_name": "Pistol",
+      "item_name": "Dual Berettas",
+      "item_description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_elite",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_elite.6563e9d274c6e799d71a7809021624f213d5e080.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_fiveseven",
+      "defindex": 3,
+      "item_class": "weapon_fiveseven",
+      "item_type_name": "Pistol",
+      "item_name": "Five-SeveN",
+      "item_description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_fiveseven",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_fiveseven.7c33b4a78ae94a3d14e7cd0f71b295cf61717d75.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_glock",
+      "defindex": 4,
+      "item_class": "weapon_glock",
+      "item_type_name": "Pistol",
+      "item_name": "Glock-18",
+      "item_description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_glock",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_glock.8430afea5349054d0923cefa7d2e7bf3950ce3d7.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "has burst mode",
+          "class": "has_burst_mode",
+          "value": 1.0
+        },
+        {
+          "name": "cycletime when in burst mode",
+          "class": "cycletime_when_in_burst_mode",
+          "value": 0.5
+        },
+        {
+          "name": "time between burst shots",
+          "class": "time_between_burst_shots",
+          "value": 0.05
+        }
+      ]
+    },
+    {
+      "name": "weapon_ak47",
+      "defindex": 7,
+      "item_class": "weapon_ak47",
+      "item_type_name": "Rifle",
+      "item_name": "AK-47",
+      "item_description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_ak47",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_ak47.a320f13fea4f21d1eb3b46678d6b12e97cbd1052.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_aug",
+      "defindex": 8,
+      "item_class": "weapon_aug",
+      "item_type_name": "Rifle",
+      "item_name": "AUG",
+      "item_description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_aug",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_aug.6b97a75aa4c0dbb61d81efb6d5497b079b67d0da.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_awp",
+      "defindex": 9,
+      "item_class": "weapon_awp",
+      "item_type_name": "Sniper Rifle",
+      "item_name": "AWP",
+      "item_description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_awp",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_awp.2899e1c6345ed05d62bdbe112db1b117d022e477.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "unzoom after shot",
+          "class": "unzoom_after_shot",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "name": "weapon_famas",
+      "defindex": 10,
+      "item_class": "weapon_famas",
+      "item_type_name": "Rifle",
+      "item_name": "FAMAS",
+      "item_description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_famas",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_famas.c897878873beb9e9ca4c68ef3a666869c6e78031.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "has burst mode",
+          "class": "has_burst_mode",
+          "value": 1.0
+        },
+        {
+          "name": "cycletime when in burst mode",
+          "class": "cycletime_when_in_burst_mode",
+          "value": 0.55
+        },
+        {
+          "name": "time between burst shots",
+          "class": "time_between_burst_shots",
+          "value": 0.075
+        }
+      ]
+    },
+    {
+      "name": "weapon_g3sg1",
+      "defindex": 11,
+      "item_class": "weapon_g3sg1",
+      "item_type_name": "Sniper Rifle",
+      "item_name": "G3SG1",
+      "item_description": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_g3sg1",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_g3sg1.986d0e07f58c81c99aa5a47d86340f4c3d400339.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_galilar",
+      "defindex": 13,
+      "item_class": "weapon_galilar",
+      "item_type_name": "Rifle",
+      "item_name": "Galil AR",
+      "item_description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_galilar",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_galilar.b84153658afdb7dc26a9854e566fde3fc42c22ef.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_m249",
+      "defindex": 14,
+      "item_class": "weapon_m249",
+      "item_type_name": "Machinegun",
+      "item_name": "M249",
+      "item_description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_m249",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_m249.02d1cf8fa8c41af5a43749bf780c4c4a2e50ea8e.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_m4a1",
+      "defindex": 16,
+      "item_class": "weapon_m4a1",
+      "item_type_name": "Rifle",
+      "item_name": "M4A4",
+      "item_description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_m4a1",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_m4a1.39b3bd8d556e5cdebb79d60902442986eb9aedff.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_mac10",
+      "defindex": 17,
+      "item_class": "weapon_mac10",
+      "item_type_name": "SMG",
+      "item_name": "MAC-10",
+      "item_description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_mac10",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_mac10.41e40474aa21a9ed90d9b21dd5adf0910f766426.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_p90",
+      "defindex": 19,
+      "item_class": "weapon_p90",
+      "item_type_name": "SMG",
+      "item_name": "P90",
+      "item_description": "Easily recognizable for its unique bullpup design, the P90 a great weapon to shoot on the move due to its high-capacity magazine and low recoil.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_p90",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_p90.15fedd7fc90f003b8de0ded36245b438d54bc3d2.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_ump45",
+      "defindex": 24,
+      "item_class": "weapon_ump45",
+      "item_type_name": "SMG",
+      "item_name": "UMP-45",
+      "item_description": "The misunderstood middle child of the SMG family, the UMP45's small clip is the only drawback to an otherwise versatile close-quarters automatic.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_ump45",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_ump45.55669e2321f28efed775be27f7e3c7e71b501520.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_xm1014",
+      "defindex": 25,
+      "item_class": "weapon_xm1014",
+      "item_type_name": "Shotgun",
+      "item_name": "XM1014",
+      "item_description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_xm1014",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_xm1014.7bd7f3985d680db2fcb7cad32b07c90b758c234b.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_bizon",
+      "defindex": 26,
+      "item_class": "weapon_bizon",
+      "item_type_name": "SMG",
+      "item_name": "PP-Bizon",
+      "item_description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_bizon",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_bizon.58523d37ee43b9a4ef42a67b65a28e5967743a56.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_mag7",
+      "defindex": 27,
+      "item_class": "weapon_mag7",
+      "item_type_name": "Shotgun",
+      "item_name": "MAG-7",
+      "item_description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_mag7",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_mag7.5480ba05c61153309163c46e7d646d6958af9bf7.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_negev",
+      "defindex": 28,
+      "item_class": "weapon_negev",
+      "item_type_name": "Machinegun",
+      "item_name": "Negev",
+      "item_description": "The high-mag, fast-firing Negev is the perfect weapon for spraying a lot of rounds quickly, with a hefty price tag, high spread and frustrating recoil as trade-offs.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_negev",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_negev.1cf512eb01bd62bcae5c54feec694f418ab71d30.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_sawedoff",
+      "defindex": 29,
+      "item_class": "weapon_sawedoff",
+      "item_type_name": "Shotgun",
+      "item_name": "Sawed-Off",
+      "item_description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_sawedoff",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_sawedoff.4c4df9c84e1edc20488c45061ad88cfd2460c4a5.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_tec9",
+      "defindex": 30,
+      "item_class": "weapon_tec9",
+      "item_type_name": "Pistol",
+      "item_name": "Tec-9",
+      "item_description": "A low-accuracy semi-automatic, the Tec-9 offers excellent penetration damage and a high clip capacity, though its recoil can be unforgiving.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_tec9",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_tec9.74538566492b4af122be9b996bdd7d08585db3c0.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_taser",
+      "defindex": 31,
+      "item_class": "weapon_taser",
+      "item_type_name": "Equipment",
+      "item_name": "Zeus x27",
+      "item_description": "Perfect for close-range ambushes and enclosed area encounters, the single-shot x27 Zeus is capable of incapacitating an enemy in a single hit.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_taser",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_taser.3c80d155bf0547c377217920f2c7329c8b00d472.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_hkp2000",
+      "defindex": 32,
+      "item_class": "weapon_hkp2000",
+      "item_type_name": "Pistol",
+      "item_name": "P2000",
+      "item_description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_hkp2000",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_hkp2000.c2221f8c2ef3df6c2fcdafd1bea9faae01f64054.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_mp7",
+      "defindex": 33,
+      "item_class": "weapon_mp7",
+      "item_type_name": "SMG",
+      "item_name": "MP7",
+      "item_description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_mp7",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_mp7.0afc09868c38a00fde50c3e4943637c714e8981e.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_mp9",
+      "defindex": 34,
+      "item_class": "weapon_mp9",
+      "item_type_name": "SMG",
+      "item_name": "MP9",
+      "item_description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_mp9",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_mp9.c9103efde0845eb715cdcb67bf74bad646b1c5bc.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_nova",
+      "defindex": 35,
+      "item_class": "weapon_nova",
+      "item_type_name": "Shotgun",
+      "item_name": "Nova",
+      "item_description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_nova",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_nova.d9063351d4233101d02def18aa7e901d02f9b4c1.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_p250",
+      "defindex": 36,
+      "item_class": "weapon_p250",
+      "item_type_name": "Pistol",
+      "item_name": "P250",
+      "item_description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_p250",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_p250.0bc9109121fb318a3bb18f6fa92692c7aa433205.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_scar20",
+      "defindex": 38,
+      "item_class": "weapon_scar20",
+      "item_type_name": "Sniper Rifle",
+      "item_name": "SCAR-20",
+      "item_description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_scar20",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_scar20.1552c7b64dfe9e542a3b730edb80e21dcc6d243d.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_sg556",
+      "defindex": 39,
+      "item_class": "weapon_sg556",
+      "item_type_name": "Rifle",
+      "item_name": "SG 553",
+      "item_description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_sg556",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_sg556.74040869391ea2ab25777f3670a6015191a73e6c.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_ssg08",
+      "defindex": 40,
+      "item_class": "weapon_ssg08",
+      "item_type_name": "Sniper Rifle",
+      "item_name": "SSG 08",
+      "item_description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_ssg08",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_ssg08.271a856f50fd6ac1014334098b1a43d61bddb892.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "unzoom after shot",
+          "class": "unzoom_after_shot",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "name": "weapon_knife",
+      "defindex": 42,
+      "item_class": "weapon_knife",
+      "item_type_name": "Knife",
+      "item_name": "Knife",
+      "item_description": "Quiet and always available, the combat knife has a fast, low-damage primary attack and a slow, high-damage secondary attack. A backstab will earn quiet players an instant kill.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife.f0bf59a7ec6f6b19dc0489b1feb11369db28debb.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_flashbang",
+      "defindex": 43,
+      "item_class": "weapon_flashbang",
+      "item_type_name": "Grenade",
+      "item_name": "Flashbang",
+      "item_description": "The non-lethal flashbang grenade temporarily blinds anybody within its concussive blast, making it perfect for flushing out closed-in areas. Its loud explosion also temporarily masks the sound of footsteps.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_flashbang",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_flashbang.bbde1307eeb99d78ef67c3a87a3a713023b63af2.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_hegrenade",
+      "defindex": 44,
+      "item_class": "weapon_hegrenade",
+      "item_type_name": "Grenade",
+      "item_name": "High Explosive Grenade",
+      "item_description": "The high explosive fragmentation grenade administers high damage through a wide area, making it ideal for clearing out hostile rooms.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_hegrenade",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_hegrenade.7b344756d5dbdda4fd2e583a227a670599889f59.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_smokegrenade",
+      "defindex": 45,
+      "item_class": "weapon_smokegrenade",
+      "item_type_name": "Grenade",
+      "item_name": "Smoke Grenade",
+      "item_description": "The smoke grenade creates a medium-area smoke screen. It can effectively hide your team from snipers, or even just create a useful distraction.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_smokegrenade",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_smokegrenade.8746d3fec5a1041d61412295aee74c7d873ccacb.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_molotov",
+      "defindex": 46,
+      "item_class": "weapon_molotov",
+      "item_type_name": "Grenade",
+      "item_name": "Molotov",
+      "item_description": "The Molotov is a powerful and unpredictable area denial weapon that bursts into flames when thrown on the ground, injuring any player in its radius.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_molotov",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_molotov.d700f0165e02bd9f2cb6bdb63bb76b4cac450b76.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_decoy",
+      "defindex": 47,
+      "item_class": "weapon_decoy",
+      "item_type_name": "Grenade",
+      "item_name": "Decoy Grenade",
+      "item_description": "When thrown, the decoy grenade emulates the sound of the most powerful weapon you are carrying, creating the illusion of additional supporting forces.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_decoy",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_decoy.d09e626c3d81f1f262bbca6146407f279a24dd03.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_incgrenade",
+      "defindex": 48,
+      "item_class": "weapon_incgrenade",
+      "item_type_name": "Grenade",
+      "item_name": "Incendiary Grenade",
+      "item_description": "When thrown, the incendiary grenade releases a high-temperature chemical reaction capable of burning anyone within its wide blast radius.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_incgrenade",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_incgrenade.94d31f4f1af7d2e695f403d9a55f2cd64f3459b2.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_c4",
+      "defindex": 49,
+      "item_class": "weapon_c4",
+      "item_type_name": "C4",
+      "item_name": "C4 Explosive",
+      "item_description": "Stable and resistant to most physical shocks, this improvised plastic explosive has a detonation velocity of over 8,000 miles per second when ignited.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_c4",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_c4.98f6ef853be4a712c684562b2460dd3e3ace8f64.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_m4a1_silencer",
+      "defindex": 60,
+      "item_class": "weapon_m4a1",
+      "item_type_name": "Rifle",
+      "item_name": "M4A1-S",
+      "item_description": "Less expensive and with a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_m4a1_silencer",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_m4a1_silencer.a8d2a028fa33eb117d6d7665303c3316169c33f7.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "is full auto",
+          "class": "is_full_auto",
+          "value": 1.0
+        },
+        {
+          "name": "time between burst shots",
+          "class": "time_between_burst_shots",
+          "value": 0.09
+        },
+        {
+          "name": "has silencer",
+          "class": "has_silencer",
+          "value": 1.0
+        },
+        {
+          "name": "in game price",
+          "class": "in_game_price",
+          "value": 2900.0
+        },
+        {
+          "name": "primary clip size",
+          "class": "primary_clip_size",
+          "value": 20.0
+        },
+        {
+          "name": "heat per shot",
+          "class": "heat_per_shot",
+          "value": 0.35
+        },
+        {
+          "name": "addon scale",
+          "class": "addon_scale",
+          "value": 0.9
+        },
+        {
+          "name": "tracer frequency",
+          "class": "tracer_frequency",
+          "value": 3.0
+        },
+        {
+          "name": "tracer frequency alt",
+          "class": "tracer_frequency_alt",
+          "value": 0.0
+        },
+        {
+          "name": "max player speed",
+          "class": "max_player_speed",
+          "value": 225.0
+        },
+        {
+          "name": "max player speed alt",
+          "class": "max_player_speed_alt",
+          "value": 225.0
+        },
+        {
+          "name": "armor ratio",
+          "class": "armor_ratio",
+          "value": 1.4
+        },
+        {
+          "name": "crosshair min distance",
+          "class": "crosshair_min_distance",
+          "value": 4.0
+        },
+        {
+          "name": "crosshair delta distance",
+          "class": "crosshair_delta_distance",
+          "value": 3.0
+        },
+        {
+          "name": "penetration",
+          "class": "penetration",
+          "value": 2.0
+        },
+        {
+          "name": "damage",
+          "class": "damage",
+          "value": 33.0
+        },
+        {
+          "name": "range",
+          "class": "range",
+          "value": 8192.0
+        },
+        {
+          "name": "range modifier",
+          "class": "range_modifier",
+          "value": 0.99
+        },
+        {
+          "name": "bullets",
+          "class": "bullets",
+          "value": 1.0
+        },
+        {
+          "name": "cycletime",
+          "class": "cycletime",
+          "value": 0.09
+        },
+        {
+          "name": "time to idle",
+          "class": "time_to_idle",
+          "value": 1.5
+        },
+        {
+          "name": "idle interval",
+          "class": "idle interval",
+          "value": 60.0
+        },
+        {
+          "name": "flinch velocity modifier large",
+          "class": "flinch_velocity_modifier_large",
+          "value": 0.4
+        },
+        {
+          "name": "flinch velocity modifier small",
+          "class": "flinch velocity modifier small",
+          "value": 0.55
+        },
+        {
+          "name": "spread",
+          "class": "spread",
+          "value": 0.6
+        },
+        {
+          "name": "inaccuracy crouch",
+          "class": "inaccuracy_crouch",
+          "value": 3.68
+        },
+        {
+          "name": "inaccuracy stand",
+          "class": "inaccuracy_stand",
+          "value": 4.9
+        },
+        {
+          "name": "inaccuracy jump",
+          "class": "innacuracy_jump",
+          "value": 0.656
+        },
+        {
+          "name": "inaccuracy land",
+          "class": "innacuracy_land",
+          "value": 0.197
+        },
+        {
+          "name": "inaccuracy ladder",
+          "class": "innacuracy_ladder",
+          "value": 110.994003
+        },
+        {
+          "name": "inaccuracy fire",
+          "class": "innacuracy_fire",
+          "value": 12.0
+        },
+        {
+          "name": "inaccuracy fire alt",
+          "class": "innacuracy_fire_alt",
+          "value": 7.0
+        },
+        {
+          "name": "inaccuracy move",
+          "class": "innacuracy_move",
+          "value": 92.879997
+        },
+        {
+          "name": "spread alt",
+          "class": "spread_alt",
+          "value": 0.45
+        },
+        {
+          "name": "recovery time crouch",
+          "class": "recovery_time_crouch",
+          "value": 0.302625
+        },
+        {
+          "name": "recovery time stand",
+          "class": "recovery_time_stand",
+          "value": 0.423676
+        },
+        {
+          "name": "recoil seed",
+          "class": "recoil_seed",
+          "value": 38965.0
+        },
+        {
+          "name": "recoil angle",
+          "class": "recoil_angle",
+          "value": 0.0
+        },
+        {
+          "name": "recoil angle alt",
+          "class": "recoil_angle_alt",
+          "value": 0.0
+        },
+        {
+          "name": "recoil angle variance",
+          "class": "recoil_angle_variance",
+          "value": 65.0
+        },
+        {
+          "name": "recoil angle variance alt",
+          "class": "recoil_angle_variance_alt",
+          "value": 65.0
+        },
+        {
+          "name": "recoil magnitude",
+          "class": "recoil_magnitude",
+          "value": 25.0
+        },
+        {
+          "name": "recoil magnitude variance",
+          "class": "recoil_magnitude_variance",
+          "value": 3.0
+        },
+        {
+          "name": "recoil magnitude alt",
+          "class": "recoil_magnitude_alt",
+          "value": 21.0
+        },
+        {
+          "name": "recoil magnitude variance alt",
+          "class": "recoil_magnitude_variance_alt",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "name": "weapon_usp_silencer",
+      "defindex": 61,
+      "item_class": "weapon_hkp2000",
+      "item_type_name": "Pistol",
+      "item_name": "USP-S",
+      "item_description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+      "proper_name": false,
+      "item_quality": 0,
+      "image_inventory": "econ/weapons/base_weapons/weapon_usp_silencer",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_usp_silencer.608e10862885084bb1cec55d87ba5e694bfd621d.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "has silencer",
+          "class": "has_silencer",
+          "value": 1.0
+        },
+        {
+          "name": "spread",
+          "class": "spread",
+          "value": 2.5
+        },
+        {
+          "name": "spread alt",
+          "class": "spread_alt",
+          "value": 1.5
+        },
+        {
+          "name": "inaccuracy fire",
+          "class": "inaccuracy_fire",
+          "value": 71.0
+        },
+        {
+          "name": "inaccuracy fire alt",
+          "class": "inaccuracy_fire_alt",
+          "value": 52.0
+        },
+        {
+          "name": "inaccuracy move",
+          "class": "inaccuracy_move",
+          "value": 13.87
+        },
+        {
+          "name": "recoil magnitude",
+          "class": "recoil_magnitude",
+          "value": 29.0
+        },
+        {
+          "name": "recoil magnitude alt",
+          "class": "recoil_magnitude_alt",
+          "value": 23.0
+        },
+        {
+          "name": "tracer frequency",
+          "class": "tracer_frequency",
+          "value": 1.0
+        },
+        {
+          "name": "tracer frequency alt",
+          "class": "tracer_frequency_alt",
+          "value": 0.0
+        },
+        {
+          "name": "primary clip size",
+          "class": "primary_clip_size",
+          "value": 12.0
+        }
+      ]
+    },
+    {
+      "name": "Recipe Trade Up",
+      "defindex": 62,
+      "item_class": "tool",
+      "item_type_name": "Contract",
+      "item_name": "Trade Up Contract",
+      "item_description": "In exchange for 10 items from the same Collection and of identical quality, you will receive a single item from that Collection of a quality one higher than the items you provided.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/tools/crafting_contract",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/crafting_contract.f730c658fc8994596609f1fdf497b48c6f5bd15f.png",
+      "image_url_large": "",
+      "craft_class": "tool",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "recipe",
+        "usage_capabilities": {
+          "usable_out_of_game": true,
+          "recipe": true
+        }
+      },
+      "attributes": [
+        {
+          "name": "always tradable",
+          "class": "always_tradable",
+          "value": 1.0
+        },
+        {
+          "name": "recipe filter",
+          "class": "recipe_filter",
+          "value": -3.0
+        },
+        {
+          "name": "preferred sort",
+          "class": "preferred_sort",
+          "value": 4.0
+        }
+      ]
+    },
+    {
+      "name": "weapon_bayonet",
+      "defindex": 500,
+      "item_class": "weapon_knife",
+      "item_type_name": "Knife",
+      "item_name": "Bayonet",
+      "item_description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapons/base_weapons/weapon_bayonet",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_bayonet.515de291204d6d896724d9fbb6856fcc6054a787.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_knife_flip",
+      "defindex": 505,
+      "item_class": "weapon_knife",
+      "item_type_name": "Knife",
+      "item_name": "Flip Knife",
+      "item_description": "Flip knives sport a Persian-style back-swept blade with an acute point.  While the point itself may be fragile, the overall design of the flip knife's design is surprisingly durable.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_flip",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_flip.ebfc00735792b1e2947b30a321a07215dae8ceed.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_knife_gut",
+      "defindex": 506,
+      "item_class": "weapon_knife",
+      "item_type_name": "Knife",
+      "item_name": "Gut Knife",
+      "item_description": "The most notable feature of a gut knife is the gut hook on the spine of the blade.  Originally popularized as an aid for field dressing game, the gut hook is also effective at  cutting through fibrous materials like rope, webbing, or safety belts with ease.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_gut",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_gut.1d53007384970e8eaf28448312777683fd633a79.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_knife_karambit",
+      "defindex": 507,
+      "item_class": "weapon_knife",
+      "item_type_name": "Knife",
+      "item_name": "Karambit",
+      "item_description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_karambit",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_karambit.8b491b581a4b9c7b5298071425f2b29a39a2a12f.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "weapon_knife_m9_bayonet",
+      "defindex": 508,
+      "item_class": "weapon_knife",
+      "item_type_name": "Knife",
+      "item_name": "M9 Bayonet",
+      "item_description": "This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapons/base_weapons/weapon_knife_m9_bayonet",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_m9_bayonet.1a55109e0c88792e5d56ea04dc1f676e44f9dec2.png",
+      "image_url_large": "",
+      "craft_class": "weapon",
+      "craft_material_type": "weapon",
+      "capabilities": {
+        "paintable": true,
+        "nameable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Five Year Service Coin",
+      "defindex": 874,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "5 Year Veteran Coin",
+      "item_description": "Has been a member of the Counter-Strike community for over 5 years.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/5yearcoin",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/5yearcoin.8349aa6fa8af5018a3906bf5a0223537dce3e0bf.png",
+      "image_url_large": "",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "cannot trade",
+          "class": "cannot_trade",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "name": "DreamHack SteelSeries 2013 CS:GO Champion",
+      "defindex": 875,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "Champion at DreamHack 2013",
+      "item_description": "This championship trophy was awarded to the Champion at The 2013 DreamHack SteelSeries CS:GO Championship.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/dreamhack_2013_champion",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_champion.9d715ee847c450b81f99861199a686e2aee36be0.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_champion_large.a71dc37ea50a3c5a441922acc9b0596fa2b51a1d.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "cannot trade",
+          "class": "cannot_trade",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "name": "DreamHack SteelSeries 2013 CS:GO Finalist",
+      "defindex": 876,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "Finalist at DreamHack 2013",
+      "item_description": "This championship trophy was awarded to the Finalist at The 2013 DreamHack SteelSeries CS:GO Championship.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/dreamhack_2013_finalist",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_finalist.53f0c415765ea52f4302208fa60579e9094da109.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_finalist_large.dc4dced76778dfb4b7abb779b49dd07be8169bb8.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "cannot trade",
+          "class": "cannot_trade",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "name": "DreamHack SteelSeries 2013 CS:GO Semifinalist",
+      "defindex": 877,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "Semifinalist at DreamHack 2013",
+      "item_description": "This championship trophy was awarded to the Semifinalist at The 2013 DreamHack SteelSeries CS:GO Championship.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/dreamhack_2013_semifinalist",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_semifinalist.03f538b9b1b48220f77e78820946e1cbfdb5b5d6.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_semifinalist_large.9cabb8b8e44611b4b709c56f074a259ad2487eef.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "cannot trade",
+          "class": "cannot_trade",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "name": "DreamHack SteelSeries 2013 CS:GO Quarterfinalist",
+      "defindex": 878,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "Quarterfinalist at DreamHack 2013",
+      "item_description": "This championship trophy was awarded to the Quarterfinalist at The 2013 DreamHack SteelSeries CS:GO Championship.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/dreamhack_2013_quarterfinalist",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_quarterfinalist.826029a11953955679bd1572a6520e56c1ba66f2.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_quarterfinalist_large.28b0d7ef982ef674148f77c5729be4d5221c0e49.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "cannot trade",
+          "class": "cannot_trade",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Community Season One Spring 2013",
+      "defindex": 1000,
+      "item_class": "tool",
+      "item_type_name": "Pass",
+      "item_name": "Operation Payback Pass",
+      "item_description": "The Operation Payback event ran from April 25th to September 2nd, 2013 and rewarded community map makers with over $180,000. This pass no longer grants access to an Operation, but may be redeemed for a commemorative Operation Payback Coin.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/community_support_pass",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass.b17a35da019f3256833ea4089c7df6c2ece80274.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_large.d1cfbac8be9e92127893ff2054647b73c76c35b3.png",
+      "craft_class": "tool",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "usable_gc": true,
+        "usable_out_of_game": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "season_pass",
+        "use_string": "USE"
+      },
+      "attributes": [
+        {
+          "name": "season access",
+          "class": "season_access",
+          "value": 0.0
+        },
+        {
+          "name": "upgrade definition index",
+          "class": "upgrade_definition_index",
+          "value": 1001.0
+        }
+      ]
+    },
+    {
+      "name": "Community Season One Spring 2013 Coin 1",
+      "defindex": 1001,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "Operation Payback Challenge Coin",
+      "item_description": "Participated in Operation Payback to support community map makers.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/community_support_pass_coin1",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_coin1.c52c7928635e86d8f855ffaf97dff79a1739cdf7.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_coin1_large.bff9cd331dd659a64080d98e7705b76c024db56b.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "cannot trade",
+          "class": "cannot_trade",
+          "value": 1.0
+        },
+        {
+          "name": "season access",
+          "class": "season_access",
+          "value": 0.0
+        },
+        {
+          "name": "minutes played",
+          "class": "minutes_played",
+          "value": 1.0
+        },
+        {
+          "name": "upgrade threshold",
+          "class": "upgrade_threshold",
+          "value": 600.0
+        },
+        {
+          "name": "upgrade definition index",
+          "class": "upgrade_definition_index",
+          "value": 1002.0
+        }
+      ]
+    },
+    {
+      "name": "Community Season One Spring 2013 Coin 2",
+      "defindex": 1002,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "Silver Operation Payback Coin",
+      "item_description": "Participated in Operation Payback for 10 hours to support community map makers.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/community_support_pass_coin2",
+      "min_ilevel": 2,
+      "max_ilevel": 2,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_coin2.73f8f284be9bef49104ed851f9db238feffd1492.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_coin2_large.bc786108abf26dbe30a13fc81d15719f495b0560.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "cannot trade",
+          "class": "cannot_trade",
+          "value": 1.0
+        },
+        {
+          "name": "season access",
+          "class": "season_access",
+          "value": 0.0
+        },
+        {
+          "name": "minutes played",
+          "class": "minutes_played",
+          "value": 1.0
+        },
+        {
+          "name": "upgrade threshold",
+          "class": "upgrade_threshold",
+          "value": 3000.0
+        },
+        {
+          "name": "upgrade definition index",
+          "class": "upgrade_definition_index",
+          "value": 1003.0
+        }
+      ]
+    },
+    {
+      "name": "Community Season One Spring 2013 Coin 3",
+      "defindex": 1003,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "Gold Operation Payback Coin",
+      "item_description": "Participated in Operation Payback for 50 hours to support community map makers.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/community_support_pass_coin3",
+      "min_ilevel": 3,
+      "max_ilevel": 3,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_coin3.b4d9b8e8cb1e591dcbc5cd4be97271990e501050.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_coin3_large.c3afe0cfbd929f85fca1a63ec1815e8336dcfe7d.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "cannot trade",
+          "class": "cannot_trade",
+          "value": 1.0
+        },
+        {
+          "name": "season access",
+          "class": "season_access",
+          "value": 0.0
+        },
+        {
+          "name": "minutes played",
+          "class": "minutes_played",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Map Token Museum",
+      "defindex": 1004,
+      "item_class": "map_token",
+      "item_type_name": "Map Stamp",
+      "item_name": "Museum Map Coin",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/maptoken_museum",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_museum.b2b75a67210ded6cde19082c4c6eb149cef5922b.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_museum_large.927ecacddfcb0b2ea12fa452d2e4a1a08c411722.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Map Token Downtown",
+      "defindex": 1005,
+      "item_class": "map_token",
+      "item_type_name": "Map Stamp",
+      "item_name": "Downtown Map Coin",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/maptoken_downtown",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_downtown.d8687e6476c41df371d826f575054afdc6f47865.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_downtown_large.7013188b051aa35987d762b6f34079f3f51d933b.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Map Token Thunder",
+      "defindex": 1006,
+      "item_class": "map_token",
+      "item_type_name": "Map Stamp",
+      "item_name": "Thunder Map Coin",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/maptoken_thunder",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_thunder.f704e281b8e31e1e3bb1b40e25c0f413ab89ed47.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_thunder_large.d32eda115f342af7ab2a3fb2d36575deb1763a92.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Map Token Favela",
+      "defindex": 1007,
+      "item_class": "map_token",
+      "item_type_name": "Map Stamp",
+      "item_name": "Favela Map Coin",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/maptoken_favela",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_favela.9429b20130cf0bcdc1719ce9d120741f45439dd4.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_favela_large.4ef326fb2ae0c32fb92d35d0d8f926e7a1c3f9eb.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Map Token Motel",
+      "defindex": 1008,
+      "item_class": "map_token",
+      "item_type_name": "Map Stamp",
+      "item_name": "Motel Map Coin",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/maptoken_motel",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_motel.427cddf26e15703088755cd9020300a8fa09b957.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_motel_large.f84e8f1c0a457482ae627acbbcc033b48a05a5af.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Map Token Seaside",
+      "defindex": 1009,
+      "item_class": "map_token",
+      "item_type_name": "Map Stamp",
+      "item_name": "Seaside Map Coin",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/maptoken_seaside",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_seaside.bb1f89571a245e297eb9b1798732e16e39c9b2e5.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_seaside_large.b8d2de3da0eca6f2b714415daef8ea0a88a604f2.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Map Token Library",
+      "defindex": 1010,
+      "item_class": "map_token",
+      "item_type_name": "Map Stamp",
+      "item_name": "Library Map Coin",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/maptoken_library",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_library.7f91012255b3033d93bdb40c5f68a85a3a2f057f.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_library_large.c72829b7feea051efabd48a1735b95e2e1823c20.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Community Season Two Autumn 2013",
+      "defindex": 1012,
+      "item_class": "tool",
+      "item_type_name": "Pass",
+      "item_name": "Operation Bravo Pass",
+      "item_description": "Grants access to Operation Bravo, which consists of access to community maps, exclusive items, and a record of your competitive stats.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/operation_bravo_pass",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_pass.d8cb196619345c8b5883f515bdb46c5b3de4e995.png",
+      "image_url_large": "",
+      "craft_class": "tool",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "usable_gc": true,
+        "usable_out_of_game": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "season_pass",
+        "use_string": "USE"
+      },
+      "attributes": [
+        {
+          "name": "season access",
+          "class": "season_access",
+          "value": 1.0
+        },
+        {
+          "name": "upgrade definition index",
+          "class": "upgrade_definition_index",
+          "value": 1013.0
+        }
+      ]
+    },
+    {
+      "name": "Community Season Two Autumn 2013 Coin 1",
+      "defindex": 1013,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "Operation Bravo Challenge Coin",
+      "item_description": "Participated in Operation Bravo.\nPlay in Operation Bravo and win Operation Bravo Competitive Matches to upgrade this coin.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/operation_bravo_bronze",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_bronze.fbc76a430e41a45125959f7445b1efa270ab46c2.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_bronze_large.2542494a3a070356b8ba5f11dc0e38c95e1e624f.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "cannot trade",
+          "class": "cannot_trade",
+          "value": 1.0
+        },
+        {
+          "name": "season access",
+          "class": "season_access",
+          "value": 1.0
+        },
+        {
+          "name": "minutes played",
+          "class": "minutes_played",
+          "value": 1.0
+        },
+        {
+          "name": "match wins",
+          "class": "match_wins",
+          "value": 0.0
+        },
+        {
+          "name": "competitive minutes played",
+          "class": "competitive_minutes_played",
+          "value": 0.0
+        },
+        {
+          "name": "competitive wins",
+          "class": "competitive_wins",
+          "value": 0.0
+        },
+        {
+          "name": "competitive kills",
+          "class": "competitive_kills",
+          "value": 0.0
+        },
+        {
+          "name": "competitive 3k",
+          "class": "competitive_3k",
+          "value": 0.0
+        },
+        {
+          "name": "competitive 4k",
+          "class": "competitive_4k",
+          "value": 0.0
+        },
+        {
+          "name": "competitive 5k",
+          "class": "competitive_5k",
+          "value": 0.0
+        },
+        {
+          "name": "competitive hsp",
+          "class": "competitive_hsp",
+          "value": 0.0
+        },
+        {
+          "name": "competitive mvps",
+          "class": "competitive_mvps",
+          "value": 0.0
+        },
+        {
+          "name": "upgrade threshold",
+          "class": "upgrade_threshold",
+          "value": 600.0
+        },
+        {
+          "name": "upgrade threshold wins",
+          "class": "upgrade_threshold_wins",
+          "value": 5.0
+        },
+        {
+          "name": "upgrade definition index",
+          "class": "upgrade_definition_index",
+          "value": 1014.0
+        }
+      ]
+    },
+    {
+      "name": "Community Season Two Autumn 2013 Coin 2",
+      "defindex": 1014,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "Silver Operation Bravo Coin",
+      "item_description": "Participated in Operation Bravo.\nPlay in Operation Bravo and win Operation Bravo Competitive Matches to upgrade this coin.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/operation_bravo_silver",
+      "min_ilevel": 2,
+      "max_ilevel": 2,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_silver.b2c3e4f7335165fef148847c8fd86cf1bdc1f573.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_silver_large.3f176a6b2c91c8b91747afc432c755c0b7e6fca7.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "cannot trade",
+          "class": "cannot_trade",
+          "value": 1.0
+        },
+        {
+          "name": "season access",
+          "class": "season_access",
+          "value": 1.0
+        },
+        {
+          "name": "minutes played",
+          "class": "minutes_played",
+          "value": 1.0
+        },
+        {
+          "name": "match wins",
+          "class": "match_wins",
+          "value": 0.0
+        },
+        {
+          "name": "competitive minutes played",
+          "class": "competitive_minutes_played",
+          "value": 0.0
+        },
+        {
+          "name": "competitive wins",
+          "class": "competitive_wins",
+          "value": 0.0
+        },
+        {
+          "name": "competitive kills",
+          "class": "competitive_kills",
+          "value": 0.0
+        },
+        {
+          "name": "competitive 3k",
+          "class": "competitive_3k",
+          "value": 0.0
+        },
+        {
+          "name": "competitive 4k",
+          "class": "competitive_4k",
+          "value": 0.0
+        },
+        {
+          "name": "competitive 5k",
+          "class": "competitive_5k",
+          "value": 0.0
+        },
+        {
+          "name": "competitive hsp",
+          "class": "competitive_hsp",
+          "value": 0.0
+        },
+        {
+          "name": "competitive mvps",
+          "class": "competitive_mvps",
+          "value": 0.0
+        },
+        {
+          "name": "upgrade threshold",
+          "class": "upgrade_threshold",
+          "value": 1800.0
+        },
+        {
+          "name": "upgrade threshold wins",
+          "class": "upgrade_threshold_wins",
+          "value": 15.0
+        },
+        {
+          "name": "upgrade definition index",
+          "class": "upgrade_definition_index",
+          "value": 1015.0
+        }
+      ]
+    },
+    {
+      "name": "Community Season Two Autumn 2013 Coin 3",
+      "defindex": 1015,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "Gold Operation Bravo Coin",
+      "item_description": "Participated in Operation Bravo.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/operation_bravo_gold",
+      "min_ilevel": 3,
+      "max_ilevel": 3,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_gold.365a7644f1f889a7a710805585b26fe9766248a1.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_gold_large.d6be46887a064db399a7155c3e88ae321e2d3eba.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "attributes": [
+        {
+          "name": "cannot trade",
+          "class": "cannot_trade",
+          "value": 1.0
+        },
+        {
+          "name": "season access",
+          "class": "season_access",
+          "value": 1.0
+        },
+        {
+          "name": "minutes played",
+          "class": "minutes_played",
+          "value": 1.0
+        },
+        {
+          "name": "match wins",
+          "class": "match_wins",
+          "value": 0.0
+        },
+        {
+          "name": "competitive minutes played",
+          "class": "competitive_minutes_played",
+          "value": 0.0
+        },
+        {
+          "name": "competitive wins",
+          "class": "competitive_wins",
+          "value": 0.0
+        },
+        {
+          "name": "competitive kills",
+          "class": "competitive_kills",
+          "value": 0.0
+        },
+        {
+          "name": "competitive 3k",
+          "class": "competitive_3k",
+          "value": 0.0
+        },
+        {
+          "name": "competitive 4k",
+          "class": "competitive_4k",
+          "value": 0.0
+        },
+        {
+          "name": "competitive 5k",
+          "class": "competitive_5k",
+          "value": 0.0
+        },
+        {
+          "name": "competitive hsp",
+          "class": "competitive_hsp",
+          "value": 0.0
+        },
+        {
+          "name": "competitive mvps",
+          "class": "competitive_mvps",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Map Token Agency",
+      "defindex": 1016,
+      "item_class": "map_token",
+      "item_type_name": "Map Stamp",
+      "item_name": "Agency Map Coin",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/maptoken_agency",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_agency.fd297ed74525c296aae3e50c2b8bcfe4dfaef701.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_agency_large.99f034a2997ef21879882fd24a66e9afd944af3b.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Map Token Ali",
+      "defindex": 1017,
+      "item_class": "map_token",
+      "item_type_name": "Map Stamp",
+      "item_name": "Ali Map Coin",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/maptoken_ali",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_ali.c10760ffa211a5dc49be0ba9d2956a6a61210f8c.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_ali_large.3044d2ccaecf50c807b544cd855dac9c1b0269d9.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Map Token Cache",
+      "defindex": 1018,
+      "item_class": "map_token",
+      "item_type_name": "Map Stamp",
+      "item_name": "Cache Map Coin",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/maptoken_cache",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_cache.936f25c8a7f21038f907de54d5cd4d3272c0f1f3.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_cache_large.10ce15c0a4fe116f794d130f5d778882843f615a.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Map Token Chinatown",
+      "defindex": 1019,
+      "item_class": "map_token",
+      "item_type_name": "Map Stamp",
+      "item_name": "Chinatown Map Coin",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/maptoken_chinatown",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_chinatown.c6e49ac4d6feb4b6eb854ea70ee746e3172e6352.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_chinatown_large.a360e969f3d0adc61797cf3eaad1a0b74baecaba.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Map Token Gwalior",
+      "defindex": 1020,
+      "item_class": "map_token",
+      "item_type_name": "Map Stamp",
+      "item_name": "Gwalior Map Coin",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/maptoken_gwalior",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_gwalior.a0288014375eec53dd96636ccea8359d91d63055.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_gwalior_large.b0db88ba20c496527e7a500d14f9d931e1ea94a9.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Map Token Ruins",
+      "defindex": 1021,
+      "item_class": "map_token",
+      "item_type_name": "Map Stamp",
+      "item_name": "Ruins Map Coin",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/maptoken_ruins",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_ruins.2795ed0ccf7fcc4c59cd0dbce0a7a1e8e8111805.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_ruins_large.a54b8de967b4abcb307602bb7e6da6024df2a8ff.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Map Token Siege",
+      "defindex": 1022,
+      "item_class": "map_token",
+      "item_type_name": "Map Stamp",
+      "item_name": "Siege Map Coin",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/maptoken_siege",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_siege.3d7b75ec8b7dd44da65a412d7c1452bd9a18778c.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_siege_large.551f4f2eeb5894b96da1c2faa97caf2b9b1a72f6.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Name Tag",
+      "defindex": 1200,
+      "item_class": "tool",
+      "item_type_name": "Tool",
+      "item_name": "Name Tag",
+      "item_description": "This item will rename a weapon. A custom engraved nameplate will be applied to the weapon and viewable in game.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/tools/tag",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/tag.a2bf9644e84e15506b9abab84125eb24527b723a.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/tools/tag_large.d3594703dfdcce8d5d00b5b90a6e78c286c8574e.png",
+      "craft_class": "tool",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "name",
+        "usage_capabilities": {
+          "nameable": true
+        }
+      },
+      "attributes": [
+        {
+          "name": "always tradable",
+          "class": "always_tradable",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Weapon Case Key",
+      "defindex": 1203,
+      "item_class": "tool",
+      "item_type_name": "Tool",
+      "item_name": "CS:GO Case Key",
+      "item_description": "This key will open any Valve Series weapon case. Non-Valve Series cases (e.g. eSports Case) require their own key to open.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/tools/weapon_case_key",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/weapon_case_key.9da9cda11754311c016099d05c3dd3309ffd7cd6.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/tools/weapon_case_key_large.9da9cda11754311c016099d05c3dd3309ffd7cd6.png",
+      "craft_class": "tool",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "decoder_ring",
+        "restriction": "generic_valve_key",
+        "usage_capabilities": {
+          "decodable": true,
+          "usable_out_of_game": true
+        }
+      }
+    },
+    {
+      "name": "E-Sports Weapon Case Key 1",
+      "defindex": 1204,
+      "item_class": "tool",
+      "item_type_name": "Tool",
+      "item_name": "eSports Key",
+      "item_description": "This key opens any eSports Case.\n\nA portion of the proceeds from the sale of this key will go towards one of the established community-run CS:GO tournaments. Stay tuned for further announcements.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/tools/weapon_case_key_special_1",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/weapon_case_key_special_1.6ced14e09f1d1f2f52a648b37d245fc1f1419a34.png",
+      "image_url_large": "",
+      "craft_class": "tool",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "decoder_ring",
+        "restriction": "esports_crate_key",
+        "usage_capabilities": {
+          "decodable": true,
+          "usable_out_of_game": true
+        }
+      }
+    },
+    {
+      "name": "unusual_crate_item",
+      "defindex": 1207,
+      "item_class": "tool",
+      "item_type_name": "Tool",
+      "item_name": "★ Rare Special Item ★",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapons/base_weapons/weapon_smokegrenade",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_smokegrenade.8746d3fec5a1041d61412295aee74c7d873ccacb.png",
+      "image_url_large": "",
+      "craft_class": "tool",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      }
+    },
+    {
+      "name": "Gift - 1 Player",
+      "defindex": 1210,
+      "item_class": "tool",
+      "item_type_name": "Tool",
+      "item_name": "Gift Package",
+      "item_description": "When used, a random player in your match will get a random item as a gift from you.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapon_cases/gift1player",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/gift1player.d7af0c74ccc8314c314c870708c0ae3a0ead32ad.png",
+      "image_url_large": "",
+      "craft_class": "tool",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "usable_gc": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "gift"
+      },
+      "attributes": [
+        {
+          "name": "set supply crate series",
+          "class": "supply_crate_series",
+          "value": 8.0
+        }
+      ]
+    },
+    {
+      "name": "Gift - 9 Players",
+      "defindex": 1211,
+      "item_class": "tool",
+      "item_type_name": "Tool",
+      "item_name": "Pallet of Presents",
+      "item_description": "When used, up to 9 other players in your match will get a random item as a gift from you.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapon_cases/gift9players",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/gift9players.d17fef24890f21e6de8cbc9690f5198d45cbb617.png",
+      "image_url_large": "",
+      "craft_class": "tool",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "usable_gc": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "gift"
+      },
+      "attributes": [
+        {
+          "name": "set supply crate series",
+          "class": "supply_crate_series",
+          "value": 8.0
+        }
+      ]
+    },
+    {
+      "name": "Community Case Key 1",
+      "defindex": 1214,
+      "item_class": "tool",
+      "item_type_name": "Tool",
+      "item_name": "Winter Offensive Case Key",
+      "item_description": "This key only opens Winter Offensive Cases",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/tools/crate_key_community_1",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/crate_key_community_1.f168439f93277d8b3869910a3ee649ee4039edb4.png",
+      "image_url_large": "",
+      "craft_class": "tool",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "decoder_ring",
+        "restriction": "community_case_1",
+        "usage_capabilities": {
+          "decodable": true,
+          "usable_out_of_game": true
+        }
+      }
+    },
+    {
+      "name": "Gift - 25 Spectators",
+      "defindex": 1215,
+      "item_class": "tool",
+      "item_type_name": "Tool",
+      "item_name": "Audience Participation Parcel",
+      "item_description": "When used, up to 25 viewers watching your match will get a random item as a gift from you.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapon_cases/gift25spectators",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/gift25spectators.2df066096864ba183f903f656abe149b9d1f7a02.png",
+      "image_url_large": "",
+      "craft_class": "tool",
+      "craft_material_type": "tool",
+      "capabilities": {
+        "usable_gc": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "gift"
+      },
+      "attributes": [
+        {
+          "name": "set supply crate series",
+          "class": "supply_crate_series",
+          "value": 8.0
+        }
+      ]
+    },
+    {
+      "name": "crate_valve_1",
+      "defindex": 4001,
+      "item_class": "supply_crate",
+      "item_type_name": "Weapon Case",
+      "item_name": "CS:GO Weapon Case",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapon_cases/crate_valve_1",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png",
+      "image_url_large": "",
+      "capabilities": {
+        "decodable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "supply_crate",
+        "restriction": "generic_valve_key",
+        "usage_capabilities": {
+          "usable_out_of_game": true
+        }
+      },
+      "attributes": [
+        {
+          "name": "set supply crate series",
+          "class": "supply_crate_series",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "name": "crate_esports_2013",
+      "defindex": 4002,
+      "item_class": "supply_crate",
+      "item_type_name": "Weapon Case",
+      "item_name": "eSports Case",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapon_cases/crate_esports_2013",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png",
+      "image_url_large": "",
+      "capabilities": {
+        "decodable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "supply_crate",
+        "restriction": "esports_crate_key",
+        "usage_capabilities": {
+          "usable_out_of_game": true
+        }
+      },
+      "attributes": [
+        {
+          "name": "set supply crate series",
+          "class": "supply_crate_series",
+          "value": 2.0
+        }
+      ]
+    },
+    {
+      "name": "crate_operation_ii",
+      "defindex": 4003,
+      "item_class": "supply_crate",
+      "item_type_name": "Weapon Case",
+      "item_name": "Operation Bravo Case",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapon_cases/crate_operation_ii",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png",
+      "image_url_large": "",
+      "capabilities": {
+        "decodable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "supply_crate",
+        "restriction": "generic_valve_key",
+        "usage_capabilities": {
+          "usable_out_of_game": true
+        }
+      },
+      "attributes": [
+        {
+          "name": "set supply crate series",
+          "class": "supply_crate_series",
+          "value": 3.0
+        }
+      ]
+    },
+    {
+      "name": "crate_valve_2",
+      "defindex": 4004,
+      "item_class": "supply_crate",
+      "item_type_name": "Weapon Case",
+      "item_name": "CS:GO Weapon Case 2",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapon_cases/crate_valve_2",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_valve_2.5b1de0e6db36a318059e56d278433cf9834715e2.png",
+      "image_url_large": "",
+      "capabilities": {
+        "decodable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "supply_crate",
+        "restriction": "generic_valve_key",
+        "usage_capabilities": {
+          "usable_out_of_game": true
+        }
+      },
+      "attributes": [
+        {
+          "name": "set supply crate series",
+          "class": "supply_crate_series",
+          "value": 4.0
+        }
+      ]
+    },
+    {
+      "name": "crate_esports_2013_winter",
+      "defindex": 4005,
+      "item_class": "supply_crate",
+      "item_type_name": "Weapon Case",
+      "item_name": "eSports Winter Case",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapon_cases/crate_esports_2013_14",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png",
+      "image_url_large": "",
+      "capabilities": {
+        "decodable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "supply_crate",
+        "restriction": "esports_crate_key",
+        "usage_capabilities": {
+          "usable_out_of_game": true
+        }
+      },
+      "attributes": [
+        {
+          "name": "set supply crate series",
+          "class": "supply_crate_series",
+          "value": 5.0
+        }
+      ]
+    },
+    {
+      "name": "crate_dhw13_promo",
+      "defindex": 4006,
+      "item_class": "supply_crate",
+      "item_type_name": "Weapon Case",
+      "item_name": "DreamHack 2013 Souvenir Package",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapon_cases/crate_dhw13_promo",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_dhw13_promo.e2fdfaae196be9b45cd67086e99269f61dc0ca8d.png",
+      "image_url_large": "",
+      "capabilities": {
+        "decodable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "supply_crate",
+        "usage_capabilities": {
+          "usable_out_of_game": true
+        }
+      },
+      "attributes": [
+        {
+          "name": "set supply crate series",
+          "class": "supply_crate_series",
+          "value": 6.0
+        },
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "name": "crate_community_1",
+      "defindex": 4009,
+      "item_class": "supply_crate",
+      "item_type_name": "Weapon Case",
+      "item_name": "Winter Offensive Weapon Case",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapon_cases/crate_community_1",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png",
+      "image_url_large": "",
+      "capabilities": {
+        "decodable": true,
+        "can_craft_mark": true,
+        "can_be_restored": true,
+        "strange_parts": true,
+        "paintable_unusual": true
+      },
+      "tool": {
+        "type": "supply_crate",
+        "restriction": "community_case_1",
+        "usage_capabilities": {
+          "usable_out_of_game": true
+        }
+      },
+      "attributes": [
+        {
+          "name": "set supply crate series",
+          "class": "supply_crate_series",
+          "value": 7.0
+        }
+      ]
+    }
+  ],
+  "attributes": [
+    {
+      "name": "always tradable",
+      "defindex": 1,
+      "attribute_class": "always_tradable",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "negative",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "cannot trade",
+      "defindex": 2,
+      "attribute_class": "cannot_trade",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "negative",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "referenced item id low",
+      "defindex": 3,
+      "attribute_class": "referenced_item_id_low",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "negative",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "referenced item id high",
+      "defindex": 4,
+      "attribute_class": "referenced_item_id_high",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "negative",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "referenced item def",
+      "defindex": 5,
+      "attribute_class": "referenced_item_def",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "negative",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "set item texture prefab",
+      "defindex": 6,
+      "attribute_class": "set_item_texture_prefab",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "set item texture seed",
+      "defindex": 7,
+      "attribute_class": "set_item_texture_seed",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "set item texture wear",
+      "defindex": 8,
+      "attribute_class": "set_item_texture_wear",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "set item texture prefab static",
+      "defindex": 9,
+      "attribute_class": "set_item_texture_prefab",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "has silencer",
+      "defindex": 10,
+      "attribute_class": "has_silencer",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "attach particle effect",
+      "defindex": 11,
+      "attribute_class": "set_attached_particle",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "description_string": "Attrib_AttachedParticle",
+      "description_format": "value_is_particle_index",
+      "effect_type": "neutral",
+      "hidden": false,
+      "stored_as_integer": false
+    },
+    {
+      "name": "has burst mode",
+      "defindex": 13,
+      "attribute_class": "has_burst_mode",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "cycletime when in burst mode",
+      "defindex": 14,
+      "attribute_class": "cycletime_when_in_burst_mode",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "time between burst shots",
+      "defindex": 15,
+      "attribute_class": "time_between_burst_shots",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "unzoom after shot",
+      "defindex": 16,
+      "attribute_class": "unzoom_after_shot",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "cycletime when zoomed",
+      "defindex": 17,
+      "attribute_class": "cycletime_when_zoomed",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "cannot shoot underwater",
+      "defindex": 18,
+      "attribute_class": "cannot_shoot_underwater",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "in game price",
+      "defindex": 19,
+      "attribute_class": "in_game_price",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "primary clip size",
+      "defindex": 20,
+      "attribute_class": "primary_clip_size",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "secondary clip size",
+      "defindex": 21,
+      "attribute_class": "secondary_clip_size",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "is full auto",
+      "defindex": 22,
+      "attribute_class": "is_full_auto",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "description_string": "Attrib_FullAuto",
+      "description_format": "value_is_additive",
+      "effect_type": "positive",
+      "hidden": false,
+      "stored_as_integer": true
+    },
+    {
+      "name": "heat per shot",
+      "defindex": 23,
+      "attribute_class": "heat_per_shot",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "addon scale",
+      "defindex": 24,
+      "attribute_class": "addon_scale",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "tracer frequency",
+      "defindex": 25,
+      "attribute_class": "tracer_frequency",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "max player speed",
+      "defindex": 26,
+      "attribute_class": "max_player_speed",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "max player speed alt",
+      "defindex": 27,
+      "attribute_class": "max_player_speed_alt",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "armor ratio",
+      "defindex": 28,
+      "attribute_class": "armor_ratio",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "crosshair min distance",
+      "defindex": 29,
+      "attribute_class": "crosshair_min_distance",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "crosshair delta distance",
+      "defindex": 30,
+      "attribute_class": "crosshair_delta_distance",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "penetration",
+      "defindex": 31,
+      "attribute_class": "penetration",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "damage",
+      "defindex": 32,
+      "attribute_class": "damage",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "range",
+      "defindex": 33,
+      "attribute_class": "range",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "range modifier",
+      "defindex": 34,
+      "attribute_class": "range_modifier",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "bullets",
+      "defindex": 35,
+      "attribute_class": "bullets",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "cycletime",
+      "defindex": 36,
+      "attribute_class": "cycletime",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "time to idle",
+      "defindex": 37,
+      "attribute_class": "time_to_idle",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "idle interval",
+      "defindex": 38,
+      "attribute_class": "idle interval",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "flinch velocity modifier large",
+      "defindex": 39,
+      "attribute_class": "flinch_velocity_modifier_large",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "flinch velocity modifier small",
+      "defindex": 40,
+      "attribute_class": "flinch velocity modifier small",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "spread",
+      "defindex": 41,
+      "attribute_class": "spread",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "inaccuracy crouch",
+      "defindex": 42,
+      "attribute_class": "inaccuracy_crouch",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "inaccuracy stand",
+      "defindex": 43,
+      "attribute_class": "inaccuracy_stand",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "inaccuracy jump",
+      "defindex": 44,
+      "attribute_class": "inaccuracy_jump",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "inaccuracy land",
+      "defindex": 45,
+      "attribute_class": "inaccuracy_land",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "inaccuracy ladder",
+      "defindex": 46,
+      "attribute_class": "inaccuracy_ladder",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "inaccuracy fire",
+      "defindex": 47,
+      "attribute_class": "inaccuracy_fire",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "inaccuracy move",
+      "defindex": 48,
+      "attribute_class": "inaccuracy_move",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "spread alt",
+      "defindex": 49,
+      "attribute_class": "spread_alt",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "inaccuracy crouch alt",
+      "defindex": 50,
+      "attribute_class": "inaccuracy_crouch_alt",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "inaccuracy stand alt",
+      "defindex": 51,
+      "attribute_class": "inaccuracy_stand_alt",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "inaccuracy jump alt",
+      "defindex": 52,
+      "attribute_class": "inaccuracy_jump_alt",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "inaccuracy land alt",
+      "defindex": 53,
+      "attribute_class": "inaccuracy_land_alt",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "inaccuracy ladder alt",
+      "defindex": 54,
+      "attribute_class": "inaccuracy_ladder_alt",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "inaccuracy fire alt",
+      "defindex": 55,
+      "attribute_class": "inaccuracy_fire_alt",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "inaccuracy move alt",
+      "defindex": 56,
+      "attribute_class": "inaccuracy_move_alt",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "recovery time crouch",
+      "defindex": 57,
+      "attribute_class": "recovery_time_crouch",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "recovery time stand",
+      "defindex": 58,
+      "attribute_class": "recovery_time_stand",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "recoil seed",
+      "defindex": 59,
+      "attribute_class": "recoil_seed",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "recoil angle",
+      "defindex": 60,
+      "attribute_class": "recoil_angle",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "recoil angle variance",
+      "defindex": 61,
+      "attribute_class": "recoil_angle_variance",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "recoil magnitude",
+      "defindex": 62,
+      "attribute_class": "recoil_magnitude",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "recoil magnitude variance",
+      "defindex": 63,
+      "attribute_class": "recoil_magnitude_variance",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "recoil angle alt",
+      "defindex": 64,
+      "attribute_class": "recoil_angle_alt",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "recoil angle variance alt",
+      "defindex": 65,
+      "attribute_class": "recoil_angle_variance_alt",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "recoil magnitude alt",
+      "defindex": 66,
+      "attribute_class": "recoil_magnitude_alt",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "recoil magnitude variance alt",
+      "defindex": 67,
+      "attribute_class": "recoil_magnitude_variance_alt",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "set supply crate series",
+      "defindex": 68,
+      "attribute_class": "supply_crate_series",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "description_string": "Case Series #%s1",
+      "description_format": "value_is_additive",
+      "effect_type": "positive",
+      "hidden": false,
+      "stored_as_integer": false
+    },
+    {
+      "name": "minutes played",
+      "defindex": 69,
+      "attribute_class": "minutes_played",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "description_string": "Operation Time Logged: %s1",
+      "description_format": "value_is_mins_as_hours",
+      "effect_type": "positive",
+      "hidden": false,
+      "stored_as_integer": false
+    },
+    {
+      "name": "alternate icon",
+      "defindex": 70,
+      "attribute_class": "alternate_icon",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "season access",
+      "defindex": 71,
+      "attribute_class": "season_access",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "disallow recycling",
+      "defindex": 72,
+      "attribute_class": "disallow_recycling",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "upgrade threshold",
+      "defindex": 73,
+      "attribute_class": "upgrade_threshold",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "upgrade definition index",
+      "defindex": 74,
+      "attribute_class": "upgrade_definition_index",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "tradable after date",
+      "defindex": 75,
+      "attribute_class": "tradable_after_date",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "negative",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "postpone fire",
+      "defindex": 76,
+      "attribute_class": "postpone_fire",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "has bullet altfire",
+      "defindex": 77,
+      "attribute_class": "has_bullet_altfire",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "elevate quality",
+      "defindex": 78,
+      "attribute_class": "set_elevated_quality",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "cycletime alt",
+      "defindex": 79,
+      "attribute_class": "cycletime_alt",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "kill eater",
+      "defindex": 80,
+      "attribute_class": "kill_eater",
+      "min_value": 0.0,
+      "max_value": 1.0,
+      "description_string": "This weapon features StatTrak™ technology, which tracks certain statistics when held by its owner.",
+      "description_format": "value_is_additive",
+      "effect_type": "positive",
+      "hidden": false,
+      "stored_as_integer": true
+    },
+    {
+      "name": "kill eater score type",
+      "defindex": 81,
+      "attribute_class": "kill_eater_score_type",
+      "min_value": 0.0,
+      "max_value": 1.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "tracer frequency alt",
+      "defindex": 92,
+      "attribute_class": "tracer_frequency_alt",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "primary default clip size",
+      "defindex": 93,
+      "attribute_class": "primary_default_clip_size",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "secondary default clip size",
+      "defindex": 94,
+      "attribute_class": "secondary_default_clip_size",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "recipe filter",
+      "defindex": 95,
+      "attribute_class": "recipe_filter",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "competitive kills",
+      "defindex": 97,
+      "attribute_class": "competitive_kills",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "competitive 3k",
+      "defindex": 98,
+      "attribute_class": "competitive_3k",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "competitive 4k",
+      "defindex": 99,
+      "attribute_class": "competitive_4k",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "competitive 5k",
+      "defindex": 101,
+      "attribute_class": "competitive_5k",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "competitive hsp",
+      "defindex": 102,
+      "attribute_class": "competitive_hsp",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "competitive wins",
+      "defindex": 103,
+      "attribute_class": "competitive_wins",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "competitive mvps",
+      "defindex": 104,
+      "attribute_class": "competitive_mvps",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "competitive minutes played",
+      "defindex": 105,
+      "attribute_class": "competitive_minutes_played",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "match wins",
+      "defindex": 106,
+      "attribute_class": "match_wins",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "description_string": "Competitive Wins in Operation Maps: %s1",
+      "description_format": "value_is_additive",
+      "effect_type": "positive",
+      "hidden": false,
+      "stored_as_integer": true
+    },
+    {
+      "name": "preferred sort",
+      "defindex": 107,
+      "attribute_class": "preferred_sort",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "neutral",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "upgrade threshold wins",
+      "defindex": 108,
+      "attribute_class": "upgrade_threshold_wins",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 0 id",
+      "defindex": 113,
+      "attribute_class": "sticker_slot_id",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "sticker slot 0 wear",
+      "defindex": 114,
+      "attribute_class": "sticker_slot_wear",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 0 scale",
+      "defindex": 115,
+      "attribute_class": "sticker_slot_scale",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 0 rotation",
+      "defindex": 116,
+      "attribute_class": "sticker_slot_rotation",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 1 id",
+      "defindex": 117,
+      "attribute_class": "sticker_slot_id",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "sticker slot 1 wear",
+      "defindex": 118,
+      "attribute_class": "sticker_slot_wear",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 1 scale",
+      "defindex": 119,
+      "attribute_class": "sticker_slot_scale",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 1 rotation",
+      "defindex": 120,
+      "attribute_class": "sticker_slot_rotation",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 2 id",
+      "defindex": 121,
+      "attribute_class": "sticker_slot_id",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "sticker slot 2 wear",
+      "defindex": 122,
+      "attribute_class": "sticker_slot_wear",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 2 scale",
+      "defindex": 123,
+      "attribute_class": "sticker_slot_scale",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 2 rotation",
+      "defindex": 124,
+      "attribute_class": "sticker_slot_rotation",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 3 id",
+      "defindex": 125,
+      "attribute_class": "sticker_slot_id",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "sticker slot 3 wear",
+      "defindex": 126,
+      "attribute_class": "sticker_slot_wear",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 3 scale",
+      "defindex": 127,
+      "attribute_class": "sticker_slot_scale",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 3 rotation",
+      "defindex": 128,
+      "attribute_class": "sticker_slot_rotation",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 4 id",
+      "defindex": 129,
+      "attribute_class": "sticker_slot_id",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "sticker slot 4 wear",
+      "defindex": 130,
+      "attribute_class": "sticker_slot_wear",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 4 scale",
+      "defindex": 131,
+      "attribute_class": "sticker_slot_scale",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 4 rotation",
+      "defindex": 132,
+      "attribute_class": "sticker_slot_rotation",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 5 id",
+      "defindex": 133,
+      "attribute_class": "sticker_slot_id",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "sticker slot 5 wear",
+      "defindex": 134,
+      "attribute_class": "sticker_slot_wear",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 5 scale",
+      "defindex": 135,
+      "attribute_class": "sticker_slot_scale",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "sticker slot 5 rotation",
+      "defindex": 136,
+      "attribute_class": "sticker_slot_rotation",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": false
+    },
+    {
+      "name": "tournament event id",
+      "defindex": 137,
+      "attribute_class": "tournament_event_id",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "tournament event stage id",
+      "defindex": 138,
+      "attribute_class": "tournament_event_stage_id",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "tournament event team0 id",
+      "defindex": 139,
+      "attribute_class": "tournament_event_team_id",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "tournament event team1 id",
+      "defindex": 140,
+      "attribute_class": "tournament_event_team_id",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    },
+    {
+      "name": "gifter account id",
+      "defindex": 162,
+      "attribute_class": "gifter_account_id",
+      "min_value": 0.0,
+      "max_value": 0.0,
+      "effect_type": "positive",
+      "hidden": true,
+      "stored_as_integer": true
+    }
+  ],
+  "item_sets": [
+    {
+      "item_set": "set_assault",
+      "name": "The Assault Collection",
+      "items": [
+        "weapon_ump45",
+        "weapon_sg556",
+        "weapon_fiveseven",
+        "weapon_negev",
+        "weapon_aug",
+        "weapon_glock",
+        "weapon_mp9"
+      ]
+    },
+    {
+      "item_set": "set_aztec",
+      "name": "The Aztec Collection",
+      "items": [
+        "weapon_nova",
+        "weapon_ssg08",
+        "weapon_fiveseven",
+        "weapon_m4a1",
+        "weapon_ak47",
+        "weapon_tec9"
+      ]
+    },
+    {
+      "item_set": "set_bravo_i",
+      "name": "The Bravo Collection",
+      "items": [
+        "weapon_sg556",
+        "weapon_elite",
+        "weapon_nova",
+        "weapon_galilar",
+        "weapon_ump45",
+        "weapon_g3sg1",
+        "weapon_usp_silencer",
+        "weapon_m4a1",
+        "weapon_mac10",
+        "weapon_m4a1_silencer",
+        "weapon_p90",
+        "weapon_hkp2000",
+        "weapon_awp",
+        "weapon_ak47",
+        "weapon_deagle"
+      ]
+    },
+    {
+      "item_set": "set_bravo_ii",
+      "name": "The Alpha Collection",
+      "items": [
+        "weapon_mp9",
+        "weapon_m249",
+        "weapon_xm1014",
+        "weapon_tec9",
+        "weapon_mp7",
+        "weapon_fiveseven",
+        "weapon_ssg08",
+        "weapon_negev",
+        "weapon_sawedoff",
+        "weapon_p250",
+        "weapon_glock",
+        "weapon_aug",
+        "weapon_mag7",
+        "weapon_bizon",
+        "weapon_famas",
+        "weapon_scar20"
+      ]
+    },
+    {
+      "item_set": "set_community_1",
+      "name": "The Winter Offensive Collection",
+      "items": [
+        "weapon_galilar",
+        "weapon_fiveseven",
+        "weapon_m249",
+        "weapon_bizon",
+        "weapon_famas",
+        "weapon_elite",
+        "weapon_mp9",
+        "weapon_nova",
+        "weapon_m4a1_silencer",
+        "weapon_p250",
+        "weapon_awp",
+        "weapon_m4a1",
+        "weapon_sawedoff"
+      ]
+    },
+    {
+      "item_set": "set_dust",
+      "name": "The Dust Collection",
+      "items": [
+        "weapon_m4a1",
+        "weapon_scar20",
+        "weapon_ak47",
+        "weapon_aug",
+        "weapon_awp",
+        "weapon_sawedoff",
+        "weapon_deagle",
+        "weapon_hkp2000",
+        "weapon_glock"
+      ]
+    },
+    {
+      "item_set": "set_dust_2",
+      "name": "The Dust 2 Collection",
+      "items": [
+        "weapon_g3sg1",
+        "weapon_p250",
+        "weapon_scar20",
+        "weapon_p90",
+        "weapon_mp9",
+        "weapon_nova",
+        "weapon_sawedoff",
+        "weapon_ak47",
+        "weapon_fiveseven",
+        "weapon_mac10",
+        "weapon_tec9",
+        "weapon_bizon",
+        "weapon_m4a1_silencer",
+        "weapon_sg556",
+        "weapon_hkp2000"
+      ]
+    },
+    {
+      "item_set": "set_esports",
+      "name": "The eSports 2013 Collection",
+      "items": [
+        "weapon_m4a1",
+        "weapon_mag7",
+        "weapon_famas",
+        "weapon_galilar",
+        "weapon_sawedoff",
+        "weapon_p250",
+        "weapon_ak47",
+        "weapon_awp",
+        "weapon_p90"
+      ]
+    },
+    {
+      "item_set": "set_esports_ii",
+      "name": "The eSports Winter Collection",
+      "items": [
+        "weapon_galilar",
+        "weapon_fiveseven",
+        "weapon_bizon",
+        "weapon_nova",
+        "weapon_g3sg1",
+        "weapon_p250",
+        "weapon_ak47",
+        "weapon_p90",
+        "weapon_famas",
+        "weapon_awp",
+        "weapon_deagle",
+        "weapon_m4a1"
+      ]
+    },
+    {
+      "item_set": "set_inferno",
+      "name": "The Inferno Collection",
+      "items": [
+        "weapon_mag7",
+        "weapon_nova",
+        "weapon_p250",
+        "weapon_m4a1",
+        "weapon_elite",
+        "weapon_tec9"
+      ]
+    },
+    {
+      "item_set": "set_italy",
+      "name": "The Italy Collection",
+      "items": [
+        "weapon_tec9",
+        "weapon_aug",
+        "weapon_famas",
+        "weapon_nova",
+        "weapon_bizon",
+        "weapon_nova",
+        "weapon_ump45",
+        "weapon_hkp2000",
+        "weapon_elite",
+        "weapon_m4a1_silencer",
+        "weapon_xm1014",
+        "weapon_glock",
+        "weapon_mp7",
+        "weapon_sawedoff",
+        "weapon_awp"
+      ]
+    },
+    {
+      "item_set": "set_lake",
+      "name": "The Lake Collection",
+      "items": [
+        "weapon_p250",
+        "weapon_xm1014",
+        "weapon_aug",
+        "weapon_galilar",
+        "weapon_sg556",
+        "weapon_g3sg1",
+        "weapon_xm1014",
+        "weapon_awp",
+        "weapon_deagle",
+        "weapon_famas",
+        "weapon_bizon",
+        "weapon_sg556",
+        "weapon_usp_silencer",
+        "weapon_p90",
+        "weapon_elite"
+      ]
+    },
+    {
+      "item_set": "set_militia",
+      "name": "The Militia Collection",
+      "items": [
+        "weapon_bizon",
+        "weapon_xm1014",
+        "weapon_mac10",
+        "weapon_hkp2000",
+        "weapon_bizon",
+        "weapon_nova",
+        "weapon_p250",
+        "weapon_nova",
+        "weapon_xm1014",
+        "weapon_m4a1",
+        "weapon_scar20"
+      ]
+    },
+    {
+      "item_set": "set_mirage",
+      "name": "The Mirage Collection",
+      "items": [
+        "weapon_p250",
+        "weapon_fiveseven",
+        "weapon_aug",
+        "weapon_g3sg1",
+        "weapon_p90",
+        "weapon_galilar",
+        "weapon_glock",
+        "weapon_mp7",
+        "weapon_ssg08",
+        "weapon_negev",
+        "weapon_sg556",
+        "weapon_mp9",
+        "weapon_ump45",
+        "weapon_mac10",
+        "weapon_mag7"
+      ]
+    },
+    {
+      "item_set": "set_nuke",
+      "name": "The Nuke Collection",
+      "items": [
+        "weapon_bizon",
+        "weapon_mag7",
+        "weapon_sawedoff",
+        "weapon_p90",
+        "weapon_ump45",
+        "weapon_xm1014",
+        "weapon_m4a1",
+        "weapon_p250",
+        "weapon_tec9"
+      ]
+    },
+    {
+      "item_set": "set_office",
+      "name": "The Office Collection",
+      "items": [
+        "weapon_famas",
+        "weapon_g3sg1",
+        "weapon_m249",
+        "weapon_galilar",
+        "weapon_hkp2000",
+        "weapon_mp7"
+      ]
+    },
+    {
+      "item_set": "set_safehouse",
+      "name": "The Safehouse Collection",
+      "items": [
+        "weapon_elite",
+        "weapon_scar20",
+        "weapon_ssg08",
+        "weapon_tec9",
+        "weapon_mp7",
+        "weapon_usp_silencer",
+        "weapon_aug",
+        "weapon_mp9",
+        "weapon_g3sg1",
+        "weapon_galilar",
+        "weapon_m249",
+        "weapon_famas",
+        "weapon_fiveseven",
+        "weapon_ssg08",
+        "weapon_m4a1_silencer"
+      ]
+    },
+    {
+      "item_set": "set_train",
+      "name": "The Train Collection",
+      "items": [
+        "weapon_ump45",
+        "weapon_elite",
+        "weapon_g3sg1",
+        "weapon_fiveseven",
+        "weapon_nova",
+        "weapon_bizon",
+        "weapon_mac10",
+        "weapon_m4a1",
+        "weapon_mag7",
+        "weapon_p250",
+        "weapon_scar20",
+        "weapon_p90",
+        "weapon_deagle",
+        "weapon_sawedoff",
+        "weapon_tec9"
+      ]
+    },
+    {
+      "item_set": "set_vertigo",
+      "name": "The Vertigo Collection",
+      "items": [
+        "weapon_mac10",
+        "weapon_xm1014",
+        "weapon_bizon",
+        "weapon_p90",
+        "weapon_ak47",
+        "weapon_elite"
+      ]
+    },
+    {
+      "item_set": "set_weapons_i",
+      "name": "The Arms Deal Collection",
+      "items": [
+        "weapon_mp7",
+        "weapon_aug",
+        "weapon_sg556",
+        "weapon_glock",
+        "weapon_usp_silencer",
+        "weapon_m4a1_silencer",
+        "weapon_ak47",
+        "weapon_deagle",
+        "weapon_awp"
+      ]
+    },
+    {
+      "item_set": "set_weapons_ii",
+      "name": "The Arms Deal 2 Collection",
+      "items": [
+        "weapon_tec9",
+        "weapon_m4a1_silencer",
+        "weapon_famas",
+        "weapon_p250",
+        "weapon_scar20",
+        "weapon_fiveseven",
+        "weapon_mp9",
+        "weapon_nova",
+        "weapon_elite",
+        "weapon_p90",
+        "weapon_usp_silencer",
+        "weapon_ssg08"
+      ]
+    }
+  ],
+  "attribute_controlled_attached_particles": [],
+  "item_levels": [
+    {
+      "name": "KillEaterRank",
+      "levels": [
+        {
+          "level": 0,
+          "required_score": 2,
+          "name": "StatTrak™"
+        },
+        {
+          "level": 1,
+          "required_score": 4,
+          "name": "StatTrak™"
+        },
+        {
+          "level": 2,
+          "required_score": 6,
+          "name": "StatTrak™"
+        },
+        {
+          "level": 3,
+          "required_score": 8,
+          "name": "StatTrak™"
+        },
+        {
+          "level": 4,
+          "required_score": 10,
+          "name": "StatTrak™"
+        },
+        {
+          "level": 5,
+          "required_score": 12,
+          "name": "StatTrak™"
+        },
+        {
+          "level": 6,
+          "required_score": 14,
+          "name": "StatTrak™"
+        },
+        {
+          "level": 7,
+          "required_score": 16,
+          "name": "StatTrak™"
+        },
+        {
+          "level": 8,
+          "required_score": 18,
+          "name": "StatTrak™"
+        },
+        {
+          "level": 9,
+          "required_score": 20,
+          "name": "StatTrak™"
+        },
+        {
+          "level": 10,
+          "required_score": 22,
+          "name": "StatTrak™"
+        },
+        {
+          "level": 11,
+          "required_score": 24,
+          "name": "StatTrak™"
+        },
+        {
+          "level": 12,
+          "required_score": 26,
+          "name": "StatTrak™"
+        }
+      ]
+    }
+  ],
+  "kill_eater_ranks": [
+    {
+      "level": 0,
+      "required_score": 2,
+      "name": "StatTrak™"
+    },
+    {
+      "level": 1,
+      "required_score": 4,
+      "name": "StatTrak™"
+    },
+    {
+      "level": 2,
+      "required_score": 6,
+      "name": "StatTrak™"
+    },
+    {
+      "level": 3,
+      "required_score": 8,
+      "name": "StatTrak™"
+    },
+    {
+      "level": 4,
+      "required_score": 10,
+      "name": "StatTrak™"
+    },
+    {
+      "level": 5,
+      "required_score": 12,
+      "name": "StatTrak™"
+    },
+    {
+      "level": 6,
+      "required_score": 14,
+      "name": "StatTrak™"
+    },
+    {
+      "level": 7,
+      "required_score": 16,
+      "name": "StatTrak™"
+    },
+    {
+      "level": 8,
+      "required_score": 18,
+      "name": "StatTrak™"
+    },
+    {
+      "level": 9,
+      "required_score": 20,
+      "name": "StatTrak™"
+    },
+    {
+      "level": 10,
+      "required_score": 22,
+      "name": "StatTrak™"
+    },
+    {
+      "level": 11,
+      "required_score": 24,
+      "name": "StatTrak™"
+    },
+    {
+      "level": 12,
+      "required_score": 26,
+      "name": "StatTrak™"
+    }
+  ],
+  "kill_eater_score_types": [
+    {
+      "type": 0,
+      "type_name": "StatTrak™ Confirmed Kills"
+    }
+  ]
+}

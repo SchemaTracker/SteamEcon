@@ -110,6 +110,9 @@ namespace Dota2Schema
 
         [JsonProperty("corrupted")]
         public int Corrupted { get; set; }
+
+        [JsonProperty("lucky")]
+        public int Lucky { get; set; }
     }
     public class QualityNames
     {
@@ -173,6 +176,9 @@ namespace Dota2Schema
 
         [JsonProperty("corrupted")]
         public string Corrupted { get; set; }
+
+        [JsonProperty("lucky")]
+        public string Lucky { get; set; }
     }
     public class OriginName
     {

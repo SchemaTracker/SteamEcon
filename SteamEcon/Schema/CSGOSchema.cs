@@ -222,6 +222,12 @@ namespace CSGOSchema
         [JsonProperty("paintable_unusual")]
         public bool PaintableUnusual { get; set; }
 
+        [JsonProperty("autograph")]
+        public bool Autograph { get; set; }
+
+        [JsonProperty("can_sticker")]
+        public bool CanSticker { get; set; }
+
         [JsonProperty("usable_gc")]
         public bool? UsableGc { get; set; }
 
@@ -241,7 +247,7 @@ namespace CSGOSchema
         public string Class { get; set; }
 
         [JsonProperty("value")]
-        public double Value { get; set; }
+        public int Value { get; set; }
     }
     public class Tool
     {
@@ -272,6 +278,9 @@ namespace CSGOSchema
 
         [JsonProperty("decodable")]
         public bool? Decodable { get; set; }
+
+        [JsonProperty("can_sticker")]
+        public bool? CanSticker { get; set; }
     }
     public class CSGOSchemaAttribute
     {
@@ -284,12 +293,6 @@ namespace CSGOSchema
 
         [JsonProperty("attribute_class")]
         public string AttributeClass { get; set; }
-
-        [JsonProperty("min_value")]
-        public double MinValue { get; set; }
-
-        [JsonProperty("max_value")]
-        public double MaxValue { get; set; }
 
         [JsonProperty("effect_type")]
         public string EffectType { get; set; }

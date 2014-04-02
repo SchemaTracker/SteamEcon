@@ -384,11 +384,11 @@ namespace TF2Schema
         [JsonProperty("can_strangify")]
         public bool? CanStrangify { get; set; }
 
-        [JsonProperty("strange_parts")]
-        public bool? StrangeParts { get; set; }
-
         [JsonProperty("can_killstreakify")]
         public bool? CanKillstreakify { get; set; }
+
+        [JsonProperty("strange_parts")]
+        public bool? StrangeParts { get; set; }
 
         [JsonProperty("can_card_upgrade")]
         public bool? CanCardUpgrade { get; set; }

@@ -210,21 +210,6 @@ namespace CSGOSchema
         [JsonProperty("nameable")]
         public bool Nameable { get; set; }
 
-        [JsonProperty("can_craft_mark")]
-        public bool CanCraftMark { get; set; }
-
-        [JsonProperty("can_be_restored")]
-        public bool CanBeRestored { get; set; }
-
-        [JsonProperty("strange_parts")]
-        public bool StrangeParts { get; set; }
-
-        [JsonProperty("paintable_unusual")]
-        public bool PaintableUnusual { get; set; }
-
-        [JsonProperty("autograph")]
-        public bool Autograph { get; set; }
-
         [JsonProperty("can_sticker")]
         public bool CanSticker { get; set; }
 
@@ -236,6 +221,9 @@ namespace CSGOSchema
 
         [JsonProperty("decodable")]
         public bool? Decodable { get; set; }
+
+        [JsonProperty("can_delete")]
+        public bool? CanDelete { get; set; }
     }
     public class Attribute
     {

@@ -1,6 +1,6 @@
 {
   "status": 1,
-  "items_game_url": "http://media.steampowered.com/apps/730/scripts/items/items_game.e827cd46675604567c7e3c6db5d049c4fe3de2af.txt",
+  "items_game_url": "http://media.steampowered.com/apps/730/scripts/items/items_game.08e109b08adb512726fee806d5333961df7d0a13.txt",
   "qualities": {
     "normal": 0,
     "genuine": 1,
@@ -145,11 +145,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -173,11 +168,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -201,11 +191,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -229,11 +214,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -257,11 +237,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -285,11 +260,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -313,11 +283,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -341,11 +306,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -369,11 +329,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -397,11 +352,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -425,11 +375,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -453,11 +398,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -481,11 +421,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -509,11 +444,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -537,11 +467,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -565,11 +490,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -593,11 +513,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -621,11 +536,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -649,11 +559,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -677,11 +582,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -705,11 +605,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -729,14 +624,7 @@
       "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_taser.3c80d155bf0547c377217920f2c7329c8b00d472.png",
       "image_url_large": "",
       "craft_class": "weapon",
-      "craft_material_type": "weapon",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      }
+      "craft_material_type": "weapon"
     },
     {
       "name": "weapon_hkp2000",
@@ -757,11 +645,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -785,11 +668,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -813,11 +691,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -841,11 +714,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -869,11 +737,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -897,11 +760,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -925,11 +783,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -953,11 +806,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -979,12 +827,7 @@
       "craft_class": "weapon",
       "craft_material_type": "weapon",
       "capabilities": {
-        "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "nameable": true
       },
       "attributes": []
     },
@@ -1003,14 +846,7 @@
       "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_flashbang.bbde1307eeb99d78ef67c3a87a3a713023b63af2.png",
       "image_url_large": "",
       "craft_class": "weapon",
-      "craft_material_type": "weapon",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      }
+      "craft_material_type": "weapon"
     },
     {
       "name": "weapon_hegrenade",
@@ -1027,14 +863,7 @@
       "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_hegrenade.7b344756d5dbdda4fd2e583a227a670599889f59.png",
       "image_url_large": "",
       "craft_class": "weapon",
-      "craft_material_type": "weapon",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      }
+      "craft_material_type": "weapon"
     },
     {
       "name": "weapon_smokegrenade",
@@ -1051,14 +880,7 @@
       "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_smokegrenade.8746d3fec5a1041d61412295aee74c7d873ccacb.png",
       "image_url_large": "",
       "craft_class": "weapon",
-      "craft_material_type": "weapon",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      }
+      "craft_material_type": "weapon"
     },
     {
       "name": "weapon_molotov",
@@ -1075,14 +897,7 @@
       "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_molotov.d700f0165e02bd9f2cb6bdb63bb76b4cac450b76.png",
       "image_url_large": "",
       "craft_class": "weapon",
-      "craft_material_type": "weapon",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      }
+      "craft_material_type": "weapon"
     },
     {
       "name": "weapon_decoy",
@@ -1099,14 +914,7 @@
       "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_decoy.d09e626c3d81f1f262bbca6146407f279a24dd03.png",
       "image_url_large": "",
       "craft_class": "weapon",
-      "craft_material_type": "weapon",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      }
+      "craft_material_type": "weapon"
     },
     {
       "name": "weapon_incgrenade",
@@ -1123,14 +931,7 @@
       "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_incgrenade.94d31f4f1af7d2e695f403d9a55f2cd64f3459b2.png",
       "image_url_large": "",
       "craft_class": "weapon",
-      "craft_material_type": "weapon",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      }
+      "craft_material_type": "weapon"
     },
     {
       "name": "weapon_c4",
@@ -1149,12 +950,7 @@
       "craft_class": "weapon",
       "craft_material_type": "weapon",
       "capabilities": {
-        "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "nameable": true
       }
     },
     {
@@ -1174,12 +970,7 @@
       "craft_class": "weapon",
       "craft_material_type": "weapon",
       "capabilities": {
-        "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "nameable": true
       },
       "attributes": []
     },
@@ -1202,11 +993,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -1230,11 +1016,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -1255,13 +1036,6 @@
       "image_url_large": "",
       "craft_class": "tool",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "tool": {
         "type": "recipe",
         "usage_capabilities": {
@@ -1290,11 +1064,6 @@
       "capabilities": {
         "paintable": true,
         "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true,
         "can_sticker": true
       },
       "attributes": []
@@ -1317,12 +1086,7 @@
       "craft_material_type": "weapon",
       "capabilities": {
         "paintable": true,
-        "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "nameable": true
       },
       "attributes": []
     },
@@ -1344,12 +1108,7 @@
       "craft_material_type": "weapon",
       "capabilities": {
         "paintable": true,
-        "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "nameable": true
       },
       "attributes": []
     },
@@ -1371,12 +1130,7 @@
       "craft_material_type": "weapon",
       "capabilities": {
         "paintable": true,
-        "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "nameable": true
       },
       "attributes": []
     },
@@ -1398,12 +1152,7 @@
       "craft_material_type": "weapon",
       "capabilities": {
         "paintable": true,
-        "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "nameable": true
       },
       "attributes": []
     },
@@ -1425,12 +1174,7 @@
       "craft_material_type": "weapon",
       "capabilities": {
         "paintable": true,
-        "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "nameable": true
       },
       "attributes": []
     },
@@ -1452,12 +1196,7 @@
       "craft_material_type": "weapon",
       "capabilities": {
         "paintable": true,
-        "nameable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "nameable": true
       },
       "attributes": []
     },
@@ -1477,13 +1216,6 @@
       "image_url_large": "",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
@@ -1502,13 +1234,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_champion_large.a71dc37ea50a3c5a441922acc9b0596fa2b51a1d.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
@@ -1527,13 +1252,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_finalist_large.dc4dced76778dfb4b7abb779b49dd07be8169bb8.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
@@ -1552,13 +1270,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_semifinalist_large.9cabb8b8e44611b4b709c56f074a259ad2487eef.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
@@ -1577,13 +1288,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_quarterfinalist_large.28b0d7ef982ef674148f77c5729be4d5221c0e49.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
@@ -1602,13 +1306,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_champion_large.bf565f6085cb4a3fa366e3167f7b873090176623.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
@@ -1627,13 +1324,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_finalist_large.a96fab9b692e4e55cb310682df0deb8dba8f3a89.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
@@ -1652,13 +1342,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_semifinalist_large.85046d0d4b5748572859cb638c8e1f502825955d.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
@@ -1677,13 +1360,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_quarterfinalist_large.54910e582990bd76a5058312f6ae85c3a5dec30c.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
@@ -1704,12 +1380,7 @@
       "craft_material_type": "tool",
       "capabilities": {
         "usable_gc": true,
-        "usable_out_of_game": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "usable_out_of_game": true
       },
       "tool": {
         "type": "season_pass",
@@ -1733,13 +1404,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_coin1_large.bff9cd331dd659a64080d98e7705b76c024db56b.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": [
         {
           "name": "minutes played",
@@ -1764,13 +1428,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_coin2_large.bc786108abf26dbe30a13fc81d15719f495b0560.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": [
         {
           "name": "minutes played",
@@ -1795,13 +1452,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_coin3_large.c3afe0cfbd929f85fca1a63ec1815e8336dcfe7d.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": [
         {
           "name": "minutes played",
@@ -1814,7 +1464,7 @@
       "name": "Map Token Museum",
       "defindex": 1004,
       "item_class": "map_token",
-      "item_type_name": "Map Stamp",
+      "item_type_name": "Collectible",
       "item_name": "Museum Map Coin",
       "item_description": "",
       "proper_name": false,
@@ -1826,20 +1476,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_museum_large.927ecacddfcb0b2ea12fa452d2e4a1a08c411722.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
       "name": "Map Token Downtown",
       "defindex": 1005,
       "item_class": "map_token",
-      "item_type_name": "Map Stamp",
+      "item_type_name": "Collectible",
       "item_name": "Downtown Map Coin",
       "item_description": "",
       "proper_name": false,
@@ -1851,20 +1494,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_downtown_large.7013188b051aa35987d762b6f34079f3f51d933b.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
       "name": "Map Token Thunder",
       "defindex": 1006,
       "item_class": "map_token",
-      "item_type_name": "Map Stamp",
+      "item_type_name": "Collectible",
       "item_name": "Thunder Map Coin",
       "item_description": "",
       "proper_name": false,
@@ -1876,20 +1512,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_thunder_large.d32eda115f342af7ab2a3fb2d36575deb1763a92.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
       "name": "Map Token Favela",
       "defindex": 1007,
       "item_class": "map_token",
-      "item_type_name": "Map Stamp",
+      "item_type_name": "Collectible",
       "item_name": "Favela Map Coin",
       "item_description": "",
       "proper_name": false,
@@ -1901,20 +1530,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_favela_large.4ef326fb2ae0c32fb92d35d0d8f926e7a1c3f9eb.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
       "name": "Map Token Motel",
       "defindex": 1008,
       "item_class": "map_token",
-      "item_type_name": "Map Stamp",
+      "item_type_name": "Collectible",
       "item_name": "Motel Map Coin",
       "item_description": "",
       "proper_name": false,
@@ -1926,20 +1548,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_motel_large.f84e8f1c0a457482ae627acbbcc033b48a05a5af.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
       "name": "Map Token Seaside",
       "defindex": 1009,
       "item_class": "map_token",
-      "item_type_name": "Map Stamp",
+      "item_type_name": "Collectible",
       "item_name": "Seaside Map Coin",
       "item_description": "",
       "proper_name": false,
@@ -1951,20 +1566,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_seaside_large.b8d2de3da0eca6f2b714415daef8ea0a88a604f2.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
       "name": "Map Token Library",
       "defindex": 1010,
       "item_class": "map_token",
-      "item_type_name": "Map Stamp",
+      "item_type_name": "Collectible",
       "item_name": "Library Map Coin",
       "item_description": "",
       "proper_name": false,
@@ -1976,13 +1584,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_library_large.c72829b7feea051efabd48a1735b95e2e1823c20.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
@@ -2003,12 +1604,7 @@
       "craft_material_type": "tool",
       "capabilities": {
         "usable_gc": true,
-        "usable_out_of_game": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "usable_out_of_game": true
       },
       "tool": {
         "type": "season_pass",
@@ -2032,13 +1628,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_bronze_large.2542494a3a070356b8ba5f11dc0e38c95e1e624f.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": [
         {
           "name": "minutes played",
@@ -2108,13 +1697,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_silver_large.3f176a6b2c91c8b91747afc432c755c0b7e6fca7.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": [
         {
           "name": "minutes played",
@@ -2184,13 +1766,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_gold_large.d6be46887a064db399a7155c3e88ae321e2d3eba.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": [
         {
           "name": "minutes played",
@@ -2248,7 +1823,7 @@
       "name": "Map Token Agency",
       "defindex": 1016,
       "item_class": "map_token",
-      "item_type_name": "Map Stamp",
+      "item_type_name": "Collectible",
       "item_name": "Agency Map Coin",
       "item_description": "",
       "proper_name": false,
@@ -2260,20 +1835,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_agency_large.99f034a2997ef21879882fd24a66e9afd944af3b.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
       "name": "Map Token Ali",
       "defindex": 1017,
       "item_class": "map_token",
-      "item_type_name": "Map Stamp",
+      "item_type_name": "Collectible",
       "item_name": "Ali Map Coin",
       "item_description": "",
       "proper_name": false,
@@ -2285,20 +1853,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_ali_large.3044d2ccaecf50c807b544cd855dac9c1b0269d9.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
       "name": "Map Token Cache",
       "defindex": 1018,
       "item_class": "map_token",
-      "item_type_name": "Map Stamp",
+      "item_type_name": "Collectible",
       "item_name": "Cache Map Coin",
       "item_description": "",
       "proper_name": false,
@@ -2310,20 +1871,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_cache_large.10ce15c0a4fe116f794d130f5d778882843f615a.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
       "name": "Map Token Chinatown",
       "defindex": 1019,
       "item_class": "map_token",
-      "item_type_name": "Map Stamp",
+      "item_type_name": "Collectible",
       "item_name": "Chinatown Map Coin",
       "item_description": "",
       "proper_name": false,
@@ -2335,20 +1889,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_chinatown_large.a360e969f3d0adc61797cf3eaad1a0b74baecaba.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
       "name": "Map Token Gwalior",
       "defindex": 1020,
       "item_class": "map_token",
-      "item_type_name": "Map Stamp",
+      "item_type_name": "Collectible",
       "item_name": "Gwalior Map Coin",
       "item_description": "",
       "proper_name": false,
@@ -2360,20 +1907,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_gwalior_large.b0db88ba20c496527e7a500d14f9d931e1ea94a9.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
       "name": "Map Token Ruins",
       "defindex": 1021,
       "item_class": "map_token",
-      "item_type_name": "Map Stamp",
+      "item_type_name": "Collectible",
       "item_name": "Ruins Map Coin",
       "item_description": "",
       "proper_name": false,
@@ -2385,20 +1925,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_ruins_large.a54b8de967b4abcb307602bb7e6da6024df2a8ff.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
       "name": "Map Token Siege",
       "defindex": 1022,
       "item_class": "map_token",
-      "item_type_name": "Map Stamp",
+      "item_type_name": "Collectible",
       "item_name": "Siege Map Coin",
       "item_description": "",
       "proper_name": false,
@@ -2410,13 +1943,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_siege_large.551f4f2eeb5894b96da1c2faa97caf2b9b1a72f6.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": []
     },
     {
@@ -2437,12 +1963,7 @@
       "craft_material_type": "tool",
       "capabilities": {
         "usable_gc": true,
-        "usable_out_of_game": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "usable_out_of_game": true
       },
       "tool": {
         "type": "season_pass",
@@ -2466,13 +1987,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_phoenix_bronze_large.a370356824b271e2691ec6495e91e66e89567ceb.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": [
         {
           "name": "minutes played",
@@ -2542,13 +2056,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_phoenix_silver_large.0340dbf0af85f9f4c4bf36b3c605c273d9f80a26.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": [
         {
           "name": "minutes played",
@@ -2618,13 +2125,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_phoenix_gold_large.7d5441fcfab0ce9df406b6e36a16ef1d5b884cf0.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "attributes": [
         {
           "name": "minutes played",
@@ -2682,7 +2182,7 @@
       "name": "Name Tag",
       "defindex": 1200,
       "item_class": "tool",
-      "item_type_name": "Tool",
+      "item_type_name": "Tag",
       "item_name": "Name Tag",
       "item_description": "This item will rename a weapon. A custom engraved nameplate will be applied to the weapon and viewable in game.",
       "proper_name": false,
@@ -2694,13 +2194,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/tools/tag_large.d3594703dfdcce8d5d00b5b90a6e78c286c8574e.png",
       "craft_class": "tool",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "tool": {
         "type": "name",
         "usage_capabilities": {
@@ -2713,7 +2206,7 @@
       "name": "Weapon Case Key",
       "defindex": 1203,
       "item_class": "tool",
-      "item_type_name": "Tool",
+      "item_type_name": "Key",
       "item_name": "CS:GO Case Key",
       "item_description": "This key will open any Valve Series Weapon Case. Non-Valve Series cases (e.g. eSports Case) require their own key to open.",
       "proper_name": false,
@@ -2725,13 +2218,6 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/tools/weapon_case_key_large.9da9cda11754311c016099d05c3dd3309ffd7cd6.png",
       "craft_class": "tool",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "tool": {
         "type": "decoder_ring",
         "restriction": "generic_valve_key",
@@ -2745,7 +2231,7 @@
       "name": "E-Sports Weapon Case Key 1",
       "defindex": 1204,
       "item_class": "tool",
-      "item_type_name": "Tool",
+      "item_type_name": "Key",
       "item_name": "eSports Key",
       "item_description": "This key opens any eSports Case.\n\nA portion of the proceeds from the sale of this key will go towards one of the established community-run CS:GO tournaments. Stay tuned for further announcements.",
       "proper_name": false,
@@ -2757,13 +2243,6 @@
       "image_url_large": "",
       "craft_class": "tool",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "tool": {
         "type": "decoder_ring",
         "restriction": "esports_crate_key",
@@ -2777,7 +2256,7 @@
       "name": "Sticker",
       "defindex": 1209,
       "item_class": "tool",
-      "item_type_name": "Tool",
+      "item_type_name": "Sticker",
       "item_name": "Sticker",
       "item_description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
       "proper_name": false,
@@ -2789,13 +2268,6 @@
       "image_url_large": "",
       "craft_class": "tool",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "tool": {
         "type": "sticker",
         "usage_capabilities": {
@@ -2809,7 +2281,7 @@
       "name": "Gift - 1 Player",
       "defindex": 1210,
       "item_class": "tool",
-      "item_type_name": "Tool",
+      "item_type_name": "Gift",
       "item_name": "Gift Package",
       "item_description": "When used, a random player in your match will get a random item as a gift from you.",
       "proper_name": false,
@@ -2822,12 +2294,7 @@
       "craft_class": "tool",
       "craft_material_type": "tool",
       "capabilities": {
-        "usable_gc": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "usable_gc": true
       },
       "tool": {
         "type": "gift"
@@ -2844,7 +2311,7 @@
       "name": "Gift - 9 Players",
       "defindex": 1211,
       "item_class": "tool",
-      "item_type_name": "Tool",
+      "item_type_name": "Gift",
       "item_name": "Pallet of Presents",
       "item_description": "When used, up to 9 other players in your match will get a random item as a gift from you.",
       "proper_name": false,
@@ -2857,12 +2324,7 @@
       "craft_class": "tool",
       "craft_material_type": "tool",
       "capabilities": {
-        "usable_gc": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "usable_gc": true
       },
       "tool": {
         "type": "gift"
@@ -2879,7 +2341,7 @@
       "name": "Sticker Crate Key",
       "defindex": 1212,
       "item_class": "tool",
-      "item_type_name": "Tool",
+      "item_type_name": "Key",
       "item_name": "CS:GO Capsule Key",
       "item_description": "This key will open any Valve Series Capsule.",
       "proper_name": false,
@@ -2891,13 +2353,6 @@
       "image_url_large": "",
       "craft_class": "tool",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "tool": {
         "type": "decoder_ring",
         "restriction": "sticker_crate_key",
@@ -2911,7 +2366,7 @@
       "name": "Community Case Key 1",
       "defindex": 1214,
       "item_class": "tool",
-      "item_type_name": "Tool",
+      "item_type_name": "Key",
       "item_name": "Winter Offensive Case Key",
       "item_description": "This key only opens Winter Offensive Cases",
       "proper_name": false,
@@ -2923,13 +2378,6 @@
       "image_url_large": "",
       "craft_class": "tool",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "tool": {
         "type": "decoder_ring",
         "restriction": "community_case_1",
@@ -2943,7 +2391,7 @@
       "name": "Gift - 25 Spectators",
       "defindex": 1215,
       "item_class": "tool",
-      "item_type_name": "Tool",
+      "item_type_name": "Gift",
       "item_name": "Audience Participation Parcel",
       "item_description": "When used, up to 25 viewers watching your match will get a random item as a gift from you.",
       "proper_name": false,
@@ -2956,12 +2404,7 @@
       "craft_class": "tool",
       "craft_material_type": "tool",
       "capabilities": {
-        "usable_gc": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "usable_gc": true
       },
       "tool": {
         "type": "gift"
@@ -2978,7 +2421,7 @@
       "name": "Community Case Key 2",
       "defindex": 1303,
       "item_class": "tool",
-      "item_type_name": "Tool",
+      "item_type_name": "Key",
       "item_name": "Operation Phoenix Case Key",
       "item_description": "This key only opens Operation Phoenix Cases",
       "proper_name": false,
@@ -2990,13 +2433,6 @@
       "image_url_large": "",
       "craft_class": "tool",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "tool": {
         "type": "decoder_ring",
         "restriction": "community_case_2",
@@ -3010,7 +2446,7 @@
       "name": "Community Sticker Capsule 1 Key",
       "defindex": 1304,
       "item_class": "tool",
-      "item_type_name": "Tool",
+      "item_type_name": "Key",
       "item_name": "Community Sticker Capsule 1 Key",
       "item_description": "This key opens the Community Sticker Capsule 1.\n\nA portion of the proceeds from the sale of this key will go to the sticker creators.",
       "proper_name": false,
@@ -3022,13 +2458,6 @@
       "image_url_large": "",
       "craft_class": "tool",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "tool": {
         "type": "decoder_ring",
         "restriction": "sticker_pack_community01_key",
@@ -3042,7 +2471,7 @@
       "name": "Community Case Key 3",
       "defindex": 1305,
       "item_class": "tool",
-      "item_type_name": "Tool",
+      "item_type_name": "Key",
       "item_name": "Huntsman Case Key ",
       "item_description": "This key only opens Huntsman Cases",
       "proper_name": false,
@@ -3054,13 +2483,6 @@
       "image_url_large": "",
       "craft_class": "tool",
       "craft_material_type": "tool",
-      "capabilities": {
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
-      },
       "tool": {
         "type": "decoder_ring",
         "restriction": "community_case_3",
@@ -3085,11 +2507,7 @@
       "image_url_large": "",
       "capabilities": {
         "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "can_delete": true
       },
       "tool": {
         "type": "supply_crate",
@@ -3121,11 +2539,7 @@
       "image_url_large": "",
       "capabilities": {
         "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "can_delete": true
       },
       "tool": {
         "type": "supply_crate",
@@ -3157,11 +2571,7 @@
       "image_url_large": "",
       "capabilities": {
         "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "can_delete": true
       },
       "tool": {
         "type": "supply_crate",
@@ -3193,11 +2603,7 @@
       "image_url_large": "",
       "capabilities": {
         "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "can_delete": true
       },
       "tool": {
         "type": "supply_crate",
@@ -3229,11 +2635,7 @@
       "image_url_large": "",
       "capabilities": {
         "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "can_delete": true
       },
       "tool": {
         "type": "supply_crate",
@@ -3264,12 +2666,7 @@
       "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_dhw13_promo.e2fdfaae196be9b45cd67086e99269f61dc0ca8d.png",
       "image_url_large": "",
       "capabilities": {
-        "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "decodable": true
       },
       "tool": {
         "type": "supply_crate",
@@ -3305,11 +2702,7 @@
       "image_url_large": "",
       "capabilities": {
         "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "can_delete": true
       },
       "tool": {
         "type": "supply_crate",
@@ -3341,11 +2734,7 @@
       "image_url_large": "",
       "capabilities": {
         "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "can_delete": true
       },
       "tool": {
         "type": "supply_crate",
@@ -3377,11 +2766,7 @@
       "image_url_large": "",
       "capabilities": {
         "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "can_delete": true
       },
       "tool": {
         "type": "supply_crate",
@@ -3413,11 +2798,7 @@
       "image_url_large": "",
       "capabilities": {
         "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "can_delete": true
       },
       "tool": {
         "type": "supply_crate",
@@ -3449,11 +2830,7 @@
       "image_url_large": "",
       "capabilities": {
         "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "can_delete": true
       },
       "tool": {
         "type": "supply_crate",
@@ -3484,12 +2861,7 @@
       "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_ems14_promo.a2c1d0b7aae61d8bd734d7dd3f391fa42bfee643.png",
       "image_url_large": "",
       "capabilities": {
-        "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "decodable": true
       },
       "tool": {
         "type": "supply_crate",
@@ -3525,12 +2897,7 @@
       "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_sticker_pack_kat2014_01.217983bfc1c97317903a25beab668565ad417ef8.png",
       "image_url_large": "",
       "capabilities": {
-        "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "decodable": true
       },
       "tool": {
         "type": "supply_crate",
@@ -3566,12 +2933,7 @@
       "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_sticker_pack_kat2014_02.71f2e9a0cb0e3f5ffea795f381058ecb84152d80.png",
       "image_url_large": "",
       "capabilities": {
-        "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "decodable": true
       },
       "tool": {
         "type": "supply_crate",
@@ -3608,11 +2970,7 @@
       "image_url_large": "",
       "capabilities": {
         "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "can_delete": true
       },
       "tool": {
         "type": "supply_crate",
@@ -3644,11 +3002,7 @@
       "image_url_large": "",
       "capabilities": {
         "decodable": true,
-        "can_craft_mark": true,
-        "can_be_restored": true,
-        "strange_parts": true,
-        "paintable_unusual": true,
-        "autograph": true
+        "can_delete": true
       },
       "tool": {
         "type": "supply_crate",

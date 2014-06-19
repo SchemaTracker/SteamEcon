@@ -344,6 +344,9 @@ namespace TF2Schema
 
         [JsonProperty("Engineer")]
         public string Engineer { get; set; }
+
+        [JsonProperty("Demoman")]
+        public string Demoman { get; set; }
     }
     public class Tool
     {

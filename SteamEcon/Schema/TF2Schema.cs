@@ -279,11 +279,11 @@ namespace TF2Schema
         [JsonProperty("usable")]
         public bool? Usable { get; set; }
 
-        [JsonProperty("usable_gc")]
-        public bool? UsableGc { get; set; }
-
         [JsonProperty("can_craft_count")]
         public bool? CanCraftCount { get; set; }
+
+        [JsonProperty("usable_gc")]
+        public bool? UsableGc { get; set; }
 
         [JsonProperty("can_customize_texture")]
         public bool? CanCustomizeTexture { get; set; }

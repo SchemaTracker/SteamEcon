@@ -219,11 +219,11 @@ namespace CSGOSchema
         [JsonProperty("usable_out_of_game")]
         public bool? UsableOutOfGame { get; set; }
 
-        [JsonProperty("decodable")]
-        public bool? Decodable { get; set; }
-
         [JsonProperty("can_delete")]
         public bool? CanDelete { get; set; }
+
+        [JsonProperty("decodable")]
+        public bool? Decodable { get; set; }
     }
     public class Attribute
     {

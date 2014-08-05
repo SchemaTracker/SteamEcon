@@ -1,6 +1,6 @@
 {
   "status": 1,
-  "items_game_url": "http://media.steampowered.com/apps/730/scripts/items/items_game.a58a461686414af8b2f60db9c39f9d92d6989170.txt",
+  "items_game_url": "http://media.steampowered.com/apps/730/scripts/items/items_game.6a4ce391b620346dedd20d9d09f92b14488f061d.txt",
   "qualities": {
     "normal": 0,
     "genuine": 1,
@@ -1260,7 +1260,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_champion_large.a71dc37ea50a3c5a441922acc9b0596fa2b51a1d.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "attributes": []
+      "attributes": [
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 1
+        }
+      ]
     },
     {
       "name": "DreamHack SteelSeries 2013 CS:GO Finalist",
@@ -1278,7 +1284,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_finalist_large.dc4dced76778dfb4b7abb779b49dd07be8169bb8.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "attributes": []
+      "attributes": [
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 1
+        }
+      ]
     },
     {
       "name": "DreamHack SteelSeries 2013 CS:GO Semifinalist",
@@ -1296,7 +1308,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_semifinalist_large.9cabb8b8e44611b4b709c56f074a259ad2487eef.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "attributes": []
+      "attributes": [
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 1
+        }
+      ]
     },
     {
       "name": "DreamHack SteelSeries 2013 CS:GO Quarterfinalist",
@@ -1314,7 +1332,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_quarterfinalist_large.28b0d7ef982ef674148f77c5729be4d5221c0e49.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "attributes": []
+      "attributes": [
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 1
+        }
+      ]
     },
     {
       "name": "EMS One Katowice 2014 CS:GO Champion",
@@ -1332,7 +1356,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_champion_large.bf565f6085cb4a3fa366e3167f7b873090176623.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "attributes": []
+      "attributes": [
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 3
+        }
+      ]
     },
     {
       "name": "EMS One Katowice 2014 CS:GO Finalist",
@@ -1350,7 +1380,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_finalist_large.a96fab9b692e4e55cb310682df0deb8dba8f3a89.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "attributes": []
+      "attributes": [
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 3
+        }
+      ]
     },
     {
       "name": "EMS One Katowice 2014 CS:GO Semifinalist",
@@ -1368,7 +1404,13 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_semifinalist_large.85046d0d4b5748572859cb638c8e1f502825955d.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "attributes": []
+      "attributes": [
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 3
+        }
+      ]
     },
     {
       "name": "EMS One Katowice 2014 CS:GO Quarterfinalist",
@@ -1386,7 +1428,181 @@
       "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_quarterfinalist_large.54910e582990bd76a5058312f6ae85c3a5dec30c.png",
       "craft_class": "collectable",
       "craft_material_type": "tool",
-      "attributes": []
+      "attributes": [
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "name": "ESL One Cologne 2014 CS:GO Champion",
+      "defindex": 883,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "CSGO_CollectibleCoin_Cologne2014_Champion",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/cologne_trophy_champion",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/cologne_trophy_champion.004bb719a1b12d25d0d5b17186b9b7039bd6d1c0.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/cologne_trophy_champion_large.321d0168210c645327273a0a108670a2d8f3b71d.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "attributes": [
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "ESL One Cologne 2014 CS:GO Finalist",
+      "defindex": 884,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "CSGO_CollectibleCoin_Cologne2014_Finalist",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/cologne_trophy_finalist",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/cologne_trophy_finalist.05008add021cea21c8b8940176d78f912f62b9e6.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/cologne_trophy_finalist_large.bc5075600a1b9b6d36e3f2fc4ddea54a0154f8b6.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "attributes": [
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "ESL One Cologne 2014 CS:GO Semifinalist",
+      "defindex": 885,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "CSGO_CollectibleCoin_Cologne2014_SemiFinalist",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/cologne_trophy_semifinalist",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/cologne_trophy_semifinalist.9cadd6a2d5646653959542f98563761512370179.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/cologne_trophy_semifinalist_large.424db65bc9a21a4e837cf27d26a2f5bb55ab821e.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "attributes": [
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "ESL One Cologne 2014 CS:GO Quarterfinalist",
+      "defindex": 886,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "CSGO_CollectibleCoin_Cologne2014_QuarterFinalist",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/cologne_trophy_quarterfinalist",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/cologne_trophy_quarterfinalist.c56b9a83a93155abc772b89e9d14773cf162195f.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/cologne_trophy_quarterfinalist_large.fc4034c97f63afe33acc1f677535069949a7fa4d.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "attributes": [
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "ESL One Cologne 2014 Pick 'Em Challenge Bronze",
+      "defindex": 887,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "CSGO_CollectibleCoin_Cologne2014_PickEmBronze",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/cologne_prediction_bronze",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/cologne_prediction_bronze.29df385363fad77e59f0279fb0b0fea274539ec5.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/cologne_prediction_bronze_large.4a4cb569e6d40eac4992917e9220967953b22e06.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "attributes": [
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "ESL One Cologne 2014 Pick 'Em Challenge Silver",
+      "defindex": 888,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "CSGO_CollectibleCoin_Cologne2014_PickEmSilver",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/cologne_prediction_silver",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/cologne_prediction_silver.2e372eb394e4b4a50d80603a3478263c67701735.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/cologne_prediction_silver_large.7745d453d377b1017d3f6a0818c15a854a9b5967.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "attributes": [
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "ESL One Cologne 2014 Pick 'Em Challenge Gold",
+      "defindex": 889,
+      "item_class": "collectible_item",
+      "item_type_name": "Collectible",
+      "item_name": "CSGO_CollectibleCoin_Cologne2014_PickEmGold",
+      "item_description": "",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/status_icons/cologne_prediction_gold",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/cologne_prediction_gold.0d12edbfa6a8ea75b14a4c55276ec482e2283ffc.png",
+      "image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/cologne_prediction_gold_large.c5c930d92b24a36d65d4d68e474126fcce58e571.png",
+      "craft_class": "collectable",
+      "craft_material_type": "tool",
+      "attributes": [
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 4
+        }
+      ]
     },
     {
       "name": "Community Season One Spring 2013",
@@ -3687,6 +3903,78 @@
           "name": "set supply crate series",
           "class": "supply_crate_series",
           "value": 19
+        }
+      ]
+    },
+    {
+      "name": "crate_sticker_pack_cologne2014_01",
+      "defindex": 4020,
+      "item_class": "supply_crate",
+      "item_type_name": "Container",
+      "item_name": "ESL One Cologne 2014 Legends",
+      "item_description": "This capsule contains a single ESL One Cologne 2014 participant sticker. A portion of the proceeds is shared equally among the included organizations.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2014_01",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_sticker_pack_cologne2014_01.27044753909c23b3e57bf4c92d0d8f11b1c661c2.png",
+      "image_url_large": "",
+      "capabilities": {
+        "decodable": true
+      },
+      "tool": {
+        "type": "supply_crate",
+        "usage_capabilities": {
+          "usable_out_of_game": true
+        }
+      },
+      "attributes": [
+        {
+          "name": "set supply crate series",
+          "class": "supply_crate_series",
+          "value": 20
+        },
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "crate_sticker_pack_cologne2014_02",
+      "defindex": 4021,
+      "item_class": "supply_crate",
+      "item_type_name": "Container",
+      "item_name": "ESL One Cologne 2014 Challengers",
+      "item_description": "This capsule contains a single ESL One Cologne 2014 participant sticker. A portion of the proceeds is shared equally among the included organizations.",
+      "proper_name": false,
+      "item_quality": 4,
+      "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2014_02",
+      "min_ilevel": 1,
+      "max_ilevel": 1,
+      "image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_sticker_pack_cologne2014_02.2c82e9044648e96f8ad8e905a97d89fb86cad100.png",
+      "image_url_large": "",
+      "capabilities": {
+        "decodable": true
+      },
+      "tool": {
+        "type": "supply_crate",
+        "usage_capabilities": {
+          "usable_out_of_game": true
+        }
+      },
+      "attributes": [
+        {
+          "name": "set supply crate series",
+          "class": "supply_crate_series",
+          "value": 21
+        },
+        {
+          "name": "tournament event id",
+          "class": "tournament_event_id",
+          "value": 4
         }
       ]
     },

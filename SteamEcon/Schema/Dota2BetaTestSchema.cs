@@ -293,6 +293,9 @@ namespace Dota2BetaTestSchema
 
         [JsonProperty("no_key_required")]
         public bool? NoKeyRequired { get; set; }
+
+        [JsonProperty("can_have_signatures")]
+        public bool? CanHaveSignatures { get; set; }
     }
     public class Attribute
     {

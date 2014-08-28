@@ -267,11 +267,17 @@ namespace Dota2Schema
         [JsonProperty("can_consume")]
         public bool CanConsume { get; set; }
 
+        [JsonProperty("is_gem")]
+        public bool? IsGem { get; set; }
+
         [JsonProperty("nameable")]
         public bool? Nameable { get; set; }
 
         [JsonProperty("can_have_sockets")]
         public bool? CanHaveSockets { get; set; }
+
+        [JsonProperty("gems_can_be_extracted")]
+        public bool? GemsCanBeExtracted { get; set; }
 
         [JsonProperty("usable")]
         public bool? Usable { get; set; }
@@ -293,9 +299,6 @@ namespace Dota2Schema
 
         [JsonProperty("no_key_required")]
         public bool? NoKeyRequired { get; set; }
-
-        [JsonProperty("can_have_signatures")]
-        public bool? CanHaveSignatures { get; set; }
     }
     public class Attribute
     {
@@ -344,6 +347,9 @@ namespace Dota2Schema
 
         [JsonProperty("can_have_sockets")]
         public bool? CanHaveSockets { get; set; }
+
+        [JsonProperty("gems_can_be_extracted")]
+        public bool? GemsCanBeExtracted { get; set; }
     }
     public class Style
     {
@@ -392,21 +398,6 @@ namespace Dota2Schema
 
         [JsonProperty("items")]
         public IList<string> Items { get; set; }
-
-        [JsonProperty("attributes")]
-        public IList<ItemSetInfoAttribute> Attributes { get; set; }
-    }
-    public class ItemSetInfoAttribute
-    {
-
-        [JsonProperty("name")]
-        public string Name { get; set; }
-
-        [JsonProperty("class")]
-        public string Class { get; set; }
-
-        [JsonProperty("value")]
-        public int Value { get; set; }
     }
     public class AttributeControlledAttachedParticle
     {

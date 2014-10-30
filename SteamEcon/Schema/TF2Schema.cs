@@ -276,14 +276,14 @@ namespace TF2Schema
         [JsonProperty("can_craft_if_purchased")]
         public bool? CanCraftIfPurchased { get; set; }
 
-        [JsonProperty("usable")]
-        public bool? Usable { get; set; }
-
         [JsonProperty("can_craft_count")]
         public bool? CanCraftCount { get; set; }
 
         [JsonProperty("usable_gc")]
         public bool? UsableGc { get; set; }
+
+        [JsonProperty("usable")]
+        public bool? Usable { get; set; }
 
         [JsonProperty("can_customize_texture")]
         public bool? CanCustomizeTexture { get; set; }

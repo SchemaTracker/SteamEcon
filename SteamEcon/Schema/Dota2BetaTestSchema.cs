@@ -299,6 +299,9 @@ namespace Dota2BetaTestSchema
 
         [JsonProperty("no_key_required")]
         public bool? NoKeyRequired { get; set; }
+
+        [JsonProperty("no_equip_to_use")]
+        public bool? NoEquipToUse { get; set; }
     }
     public class Attribute
     {

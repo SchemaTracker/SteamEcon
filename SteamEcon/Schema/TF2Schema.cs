@@ -216,14 +216,14 @@ namespace TF2Schema
         [JsonProperty("styles")]
         public IList<Style> Styles { get; set; }
 
+        [JsonProperty("item_description")]
+        public string ItemDescription { get; set; }
+
         [JsonProperty("attributes")]
         public IList<Attribute> Attributes { get; set; }
 
         [JsonProperty("drop_type")]
         public string DropType { get; set; }
-
-        [JsonProperty("item_description")]
-        public string ItemDescription { get; set; }
 
         [JsonProperty("item_set")]
         public string ItemSet { get; set; }
@@ -293,6 +293,9 @@ namespace TF2Schema
 
         [JsonProperty("can_spell_page")]
         public bool? CanSpellPage { get; set; }
+
+        [JsonProperty("duck_upgradable")]
+        public bool? DuckUpgradable { get; set; }
 
         [JsonProperty("decodable")]
         public bool? Decodable { get; set; }
@@ -389,6 +392,9 @@ namespace TF2Schema
 
         [JsonProperty("can_killstreakify")]
         public bool? CanKillstreakify { get; set; }
+
+        [JsonProperty("duck_upgradable")]
+        public bool? DuckUpgradable { get; set; }
 
         [JsonProperty("strange_parts")]
         public bool? StrangeParts { get; set; }

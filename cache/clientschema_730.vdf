@@ -14521,6 +14521,32 @@
 			}
 			"associated_item"		"10049"
 		}
+		"10050"
+		{
+			"name"		"coupon - midnightriders_01"
+			"item_name"		"#coupon"
+			"item_description"		"#coupon_desc"
+			"image_inventory"		"econ/coupon/offer"
+			"prefab"		"coupon_crate_prefab"
+			"loot_list_name"		"coupon loot list - midnightriders_01"
+			"tool"
+			{
+				"restriction"		"coupon_midnightriders_01"
+			}
+			"associated_item"		"20050"
+		}
+		"20050"
+		{
+			"name"		"coupon key - midnightriders_01"
+			"item_name"		"#coupon_key_midnightriders_01"
+			"item_description"		"#coupon_key_desc"
+			"prefab"		"valve coupon_key_prefab"
+			"tool"
+			{
+				"restriction"		"coupon_midnightriders_01"
+			}
+			"associated_item"		"10050"
+		}
 	}
 	"attributes"
 	{
@@ -27880,6 +27906,11 @@
 			"public_list_contents"		"1"
 			"[bombsquad_foil]sticker"		"1"
 		}
+		"coupon loot list - midnightriders_01"
+		{
+			"public_list_contents"		"1"
+			"[midnightriders_01]musickit"		"1"
+		}
 	}
 	"revolving_loot_lists"
 	{
@@ -28100,6 +28131,14 @@
 			"loc_description"		"#musickit_skog_01_desc"
 			"image_inventory"		"econ/music_kits/skog_01"
 			"pedestal_display_model"		"models/inventory_items/music_kits/music_kit_skog_01.mdl"
+		}
+		"12"
+		{
+			"name"		"midnightriders_01"
+			"loc_name"		"#musickit_midnightriders_01"
+			"loc_description"		"#musickit_midnightriders_01_desc"
+			"image_inventory"		"econ/music_kits/midnight_riders_01"
+			"pedestal_display_model"		"models/inventory_items/music_kits/music_kit_midnight_riders_01.mdl"
 		}
 	}
 	"quest_definitions"

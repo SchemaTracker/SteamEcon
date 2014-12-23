@@ -44397,7 +44397,7 @@
 		"1141"
 		{
 			"name"	"Festive Shotgun 2014"
-			"prefab"	"weapon_shotgun_multiclass"
+			"prefab"	"no_craft weapon_shotgun_multiclass"
 			"item_name"	"#TF_Weapon_FestiveShotgun"
 			"image_inventory"	"backpack/weapons/c_models/c_shotgun/c_shotgun_xmas"
 			"model_player"	"models/weapons/c_models/c_shotgun/c_shotgun_xmas.mdl"
@@ -44409,7 +44409,7 @@
 		"1142"
 		{
 			"name"	"Festive Revolver 2014"
-			"prefab"	"weapon_revolver"
+			"prefab"	"no_craft weapon_revolver"
 			"item_name"	"#TF_Weapon_FestiveRevolver"
 			"image_inventory"	"backpack/weapons/c_models/c_revolver/c_revolver_xmas"
 			"model_player"	"models/weapons/c_models/c_revolver/c_revolver_xmas.mdl"
@@ -44421,7 +44421,7 @@
 		"1143"
 		{
 			"name"	"Festive Bonesaw 2014"
-			"prefab"	"weapon_bonesaw"
+			"prefab"	"no_craft weapon_bonesaw"
 			"item_name"	"#TF_Weapon_FestiveBonesaw"
 			"image_inventory"	"backpack/weapons/c_models/c_bonesaw/c_bonesaw_xmas"
 			"model_player"	"models/weapons/c_models/c_bonesaw/c_bonesaw_xmas.mdl"
@@ -44433,7 +44433,7 @@
 		"1144"
 		{
 			"name"	"Festive Targe 2014"	
-			"prefab"	"weapon_targe"
+			"prefab"	"no_craft weapon_targe"
 			"item_name"	"#TF_Weapon_FestiveTarge"
 			"image_inventory"	"backpack/weapons/c_models/c_targe/c_targe_xmas"
 			"model_player"	"models/weapons/c_models/c_targe/c_targe_xmas.mdl"
@@ -44446,7 +44446,7 @@
 		"1145"
 		{
 			"name"	"Festive Bonk 2014"
-			"prefab"	"weapon_bonk"
+			"prefab"	"no_craft weapon_bonk"
 			"item_name"	"#TF_Weapon_FestiveBonk"
 			"image_inventory"	"backpack/weapons/c_models/c_xms_energy_drink/c_xms_energy_drink"
 			"model_player"	"models/weapons/c_models/c_xms_energy_drink/c_xms_energy_drink.mdl"
@@ -44458,7 +44458,7 @@
 		"1146"
 		{
 			"name"	"Festive Backburner 2014"
-			"prefab"	"weapon_backburner"
+			"prefab"	"no_craft weapon_backburner"
 			"item_name"	"#TF_Weapon_FestiveBackburner"
 			"image_inventory"	"backpack/weapons/c_models/c_flamethrower/c_backburner_xmas"
 			"model_player"	"models/weapons/c_models/c_flamethrower/c_backburner_xmas.mdl"
@@ -44470,7 +44470,7 @@
 		"1149"
 		{
 			"name"	"Festive SMG 2014"
-			"prefab"	"weapon_smg"
+			"prefab"	"no_craft weapon_smg"
 			"item_name"	"#TF_Weapon_FestiveSMG"
 			"image_inventory"	"backpack/weapons/c_models/c_smg/c_smg_xmas"
 			"model_player"	"models/weapons/c_models/c_smg/c_smg_xmas.mdl"

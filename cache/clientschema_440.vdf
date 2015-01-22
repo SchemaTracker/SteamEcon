@@ -77467,7 +77467,7 @@
 		"5791"
 		{
 			"name"	"Naughty Key 2014 Key" 
-			"prefab" "eventkey"
+			"prefab" "valve eventkey"
 			"first_sale_date"	"2014/12/24"
 			"item_name"		"#TF_Tool_WinterKey2014_Naughty"
 			"item_description"	"#TF_Tool_WinterKey2014_Naughty_Desc"

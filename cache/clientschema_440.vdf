@@ -100129,7 +100129,18 @@
 		{
 			"type_name"			"KillEaterEvent_HalloweenMinigamesWon"
 		}
-
+		"93"
+		{
+			"type_name"			"KillEaterEvent_NonCritKills"
+		}
+		"94"
+		{
+			"type_name"			"KillEaterEvent_PlayersHit"
+		}
+		"95"
+		{
+			"type_name"			"KillEaterEvent_CosmeticAssists"
+		}
 
 
 	}

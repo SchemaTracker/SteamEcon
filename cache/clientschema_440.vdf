@@ -77869,17 +77869,11 @@
 			}
 			"armory_desc" "winter_crate"
 			"item_name"		"#TF_WinterCrate2014_Naughty"
-			"item_description"	"#TF_WinterCrate2014_Naughty_Desc"
+			"item_description"	"#TF_Crate_MomentoNote_Desc"
 			"image_inventory"	"backpack/player/items/crafting/smissmas_crate_naughty_2014"
 			"attributes"
 			{
-				"decoded by itemdefindex"
-				{
-					"attribute_class"	"decoded_by_itemdefindex"
-					"value" "5791"	
-				}
 			}
-			"event_desc_footer"	"TF_WinterCrate2014_Naughty_Footer"
 		}
 		"5790" 
 		{
@@ -77892,44 +77886,28 @@
 			}
 			"armory_desc" "winter_crate"
 			"item_name"		"#TF_WinterCrate2014_Nice"
-			"item_description"	"#TF_WinterCrate2014_Nice_Desc"
+			"item_description"	"#TF_Crate_MomentoNote_Desc"
 			"image_inventory"	"backpack/player/items/crafting/smissmas_crate_2014"
 			"attributes"
 			{
-				"decoded by itemdefindex"
-				{
-					"attribute_class"	"decoded_by_itemdefindex"
-					"value" "5792"	
-				}
 			}
-			"event_desc_footer"	"TF_WinterCrate2014_Nice_Footer"
 		}
 		
 		"5791"
 		{
 			"name"	"Naughty Key 2014 Key" 
 			"prefab" "valve eventkey"
-			"first_sale_date"	"2014/12/24"
-			"item_name"		"#TF_Tool_WinterKey2014_Naughty"
-			"item_description"	"#TF_Tool_WinterKey2014_Naughty_Desc"
-			"image_inventory"	"backpack/crafting/winter2013_naughty_key"		
-			"tool"
-			{
-				"restriction"	"winter2014_naughty"
-			}
+			"item_name"		"#TF_Tool_DecoderRing"
+			"item_description"	"#TF_Tool_DecoderRing_Desc"
+			"image_inventory"	"backpack/player/items/crafting/key"
 		}
 		"5792"
 		{
 			"name"	"Nice Key 2014 Key" 
 			"prefab" "eventkey"
-			"first_sale_date"	"2014/12/24"
-			"item_name"		"#TF_Tool_WinterKey2014_Nice"
-			"item_description"	"#TF_Tool_WinterKey2014_Nice_Desc"
-			"image_inventory"	"backpack/crafting/winter2014_nice_key"
-			"tool"
-			{
-				"restriction"	"winter2014_nice"
-			}
+			"item_name"		"#TF_Tool_DecoderRing"
+			"item_description"	"#TF_Tool_DecoderRing_Desc"
+			"image_inventory"	"backpack/player/items/crafting/key"
 		}
 		
 		"5793"

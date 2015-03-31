@@ -316,7 +316,7 @@ namespace TF2Schema
         public int Hat { get; set; }
 
         [JsonProperty("headphones")]
-        public int? Headphones { get; set; }
+        public int Headphones { get; set; }
 
         [JsonProperty("head")]
         public int? Head { get; set; }

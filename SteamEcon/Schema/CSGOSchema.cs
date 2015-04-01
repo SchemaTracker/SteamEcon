@@ -213,6 +213,9 @@ namespace CSGOSchema
         [JsonProperty("can_sticker")]
         public bool CanSticker { get; set; }
 
+        [JsonProperty("can_stattrack_swap")]
+        public bool CanStattrackSwap { get; set; }
+
         [JsonProperty("usable_gc")]
         public bool? UsableGc { get; set; }
 
@@ -269,6 +272,9 @@ namespace CSGOSchema
 
         [JsonProperty("can_sticker")]
         public bool? CanSticker { get; set; }
+
+        [JsonProperty("can_stattrack_swap")]
+        public bool? CanStattrackSwap { get; set; }
     }
     public class CSGOSchemaAttribute
     {

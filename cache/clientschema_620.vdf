@@ -1,13 +1,5 @@
 "items_game"
 {
-	"game_info"
-	{
-		"first_valid_class"	"1"
-		"last_valid_class"	"2"
-		"first_valid_item_slot"		"0"
-		"last_valid_item_slot"		"3"
-		"num_item_presets"			"1"
-	}
 	"qualities"
 	{
 		"normal"
@@ -58,71 +50,9 @@
 		{
 			"value" 	"11"
 		}
-		"completed"
-		{
-			"value" 	"12"
-		}
-	}
-	"colors"
-	{
-		"desc_level"
-		{
-			"color_name"	"ItemAttribLevel"
-		}
-		"desc_attrib_neutral"
-		{
-			"color_name"	"ItemAttribNeutral"
-		}
-		"desc_attrib_positive"
-		{
-			"color_name"	"ItemAttribPositive"
-		}
-		"desc_attrib_negative"
-		{
-			"color_name"	"ItemAttribNegative"
-		}
-		"desc_itemset_name"
-		{
-			"color_name"	"ItemSetName"
-		}
-		"desc_itemset_equipped"
-		{
-			"color_name"	"ItemSetItemEquipped"
-		}
-		"desc_itemset_missing"
-		{
-			"color_name"	"ItemSetItemMissing"
-		}
-		"desc_bundle"
-		{
-			"color_name"	"ItemBundleItem"
-		}
-		"desc_limited_use"
-		{
-			"color_name"	"ItemLimitedUse"
-		}
-		"desc_flags"
-		{
-			"color_name"	"ItemFlags"
-		}
-		"web_item_background_color"
-		{
-			"color_name"	"(web only)"
-		}
 	}
 	"items"
 	{
-		"default"
-		{
-			"name"	"default"
-			"hidden"	"1"
-			"item_class"	"portal2_wearable"
-			"item_name"	"#P2_Default_ItemDef"
-			"item_slot"	"head"
-			"item_quality"	"unique"
-			"min_ilevel"	"1"
-			"max_ilevel"	"1"
-		}
 		"0"
 		{
 			"name"		"Broken Junk To Fix Crash"

@@ -8282,6 +8282,11 @@
 			"prefab"		"collectible_untradable"
 			"item_type"		"operation_coin"
 		}
+		"prestige_coin"
+		{
+			"prefab"		"collectible_untradable"
+			"item_type"		"prestige_coin"
+		}
 		"attendance_pin"
 		{
 			"prefab"		"collectible_untradable"
@@ -8822,6 +8827,14 @@
 					"value"		"0"
 					"force_gc_to_generate"		"1"
 				}
+			}
+		}
+		"prestige_2015"
+		{
+			"prefab"		"prestige_coin"
+			"attributes"
+			{
+				"prestige year"		"2015"
 			}
 		}
 		"map_token"
@@ -14397,6 +14410,18 @@
 			"tool"
 			{
 				"restriction"		"community_case_8"
+			}
+		}
+		"1331"
+		{
+			"name"		"prestige coin 2015"
+			"prefab"		"prestige_2015"
+			"item_name"		"#CSGO_Collectible_GlobalGeneral2015"
+			"item_description"		"#CSGO_Collectible_Desc_GlobalGeneral2015"
+			"image_inventory"		"econ/status_icons/service_medal_2015"
+			"attributes"
+			{
+				"pedestal display model"		"models/inventory_items/service_medal_2015.mdl"
 			}
 		}
 		"4001"
@@ -20159,6 +20184,25 @@
 			"attribute_class"		"operation_bonus_points"
 			"description_format"		"value_is_additive"
 			"description_string"		"#Attrib_OperationBonusXP"
+			"hidden"		"0"
+			"effect_type"		"positive"
+			"stored_as_integer"		"1"
+		}
+		"221"
+		{
+			"name"		"prestige year"
+			"attribute_class"		"prestige_year"
+			"description_format"		"value_is_additive"
+			"hidden"		"1"
+			"effect_type"		"neutral"
+			"stored_as_integer"		"1"
+		}
+		"222"
+		{
+			"name"		"issue date"
+			"attribute_class"		"issue_date"
+			"description_format"		"value_is_date"
+			"description_string"		"#Attrib_IssueDate"
 			"hidden"		"0"
 			"effect_type"		"positive"
 			"stored_as_integer"		"1"
@@ -39419,6 +39463,13 @@
 				"->"		"3"
 				"story_block"
 				{
+					"expression"		" %525% "
+					"character_name"		"Hennequet"
+					"description"		"Op_Bloodhound_sebastien_502_turner"
+					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_502_turner_radio.mp3"
+				}
+				"story_block"
+				{
 					"character_name"		"Hennequet"
 					"description"		"Op_bloodhound_Sebastien_502"
 					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_502_radio.mp3"
@@ -39441,6 +39492,13 @@
 				"->"		"5"
 				"story_block"
 				{
+					"expression"		" %525% "
+					"character_name"		"Hennequet"
+					"description"		"Op_Bloodhound_sebastien_504_turner"
+					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_504_turner_radio.mp3"
+				}
+				"story_block"
+				{
 					"character_name"		"Hennequet"
 					"description"		"Op_bloodhound_Sebastien_504"
 					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_504_radio.mp3"
@@ -39452,6 +39510,13 @@
 				"->"		"10"
 				"story_block"
 				{
+					"expression"		" %525% "
+					"character_name"		"Hennequet"
+					"description"		"Op_Bloodhound_sebastien_505_turner"
+					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_505_turner_radio.mp3"
+				}
+				"story_block"
+				{
 					"character_name"		"Hennequet"
 					"description"		"Op_bloodhound_Sebastien_505"
 					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_505_radio.mp3"
@@ -39461,6 +39526,13 @@
 			{
 				"quest_index"		"506"
 				"->"		"7"
+				"story_block"
+				{
+					"expression"		" %525% "
+					"character_name"		"Hennequet"
+					"description"		"Op_Bloodhound_sebastien_506_turner"
+					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_506_turner_radio.mp3"
+				}
 				"story_block"
 				{
 					"character_name"		"Hennequet"
@@ -39494,6 +39566,13 @@
 			{
 				"quest_index"		"509"
 				"->"		"10"
+				"story_block"
+				{
+					"expression"		" %525% "
+					"character_name"		"Hennequet"
+					"description"		"Op_Bloodhound_sebastien_509_turner"
+					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_509_turner_radio.mp3"
+				}
 				"story_block"
 				{
 					"character_name"		"Hennequet"
@@ -39532,6 +39611,13 @@
 				"->"		"13"
 				"story_block"
 				{
+					"expression"		" %525% "
+					"character_name"		"Hennequet"
+					"description"		"Op_Bloodhound_sebastien_512_turner"
+					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_512_turner_radio.mp3"
+				}
+				"story_block"
+				{
 					"character_name"		"Hennequet"
 					"description"		"Op_bloodhound_Sebastien_512"
 					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_512_radio.mp3"
@@ -39541,6 +39627,13 @@
 			{
 				"quest_index"		"513"
 				"->"		"14"
+				"story_block"
+				{
+					"expression"		" %525% "
+					"character_name"		"Hennequet"
+					"description"		"Op_Bloodhound_sebastien_513_turner"
+					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_513_turner_radio.mp3"
+				}
 				"story_block"
 				{
 					"character_name"		"Hennequet"
@@ -39577,6 +39670,13 @@
 				"->"		"21"
 				"story_block"
 				{
+					"expression"		" %525% "
+					"character_name"		"Hennequet"
+					"description"		"Op_Bloodhound_sebastien_516_turner"
+					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_516_turner_radio.mp3"
+				}
+				"story_block"
+				{
 					"character_name"		"Hennequet"
 					"description"		"Op_bloodhound_Sebastien_516"
 					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_516_radio.mp3"
@@ -39586,6 +39686,13 @@
 			{
 				"quest_index"		"517"
 				"->"		"25"
+				"story_block"
+				{
+					"expression"		" %525% "
+					"character_name"		"Hennequet"
+					"description"		"Op_Bloodhound_sebastien_517_turner"
+					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_517_turner_radio.mp3"
+				}
 				"story_block"
 				{
 					"character_name"		"Hennequet"
@@ -39622,6 +39729,13 @@
 				"->"		"21"
 				"story_block"
 				{
+					"expression"		" %525% "
+					"character_name"		"Hennequet"
+					"description"		"Op_Bloodhound_sebastien_520_turner"
+					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_520_turner_radio.mp3"
+				}
+				"story_block"
+				{
 					"character_name"		"Hennequet"
 					"description"		"Op_bloodhound_Sebastien_520"
 					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_520_radio.mp3"
@@ -39632,6 +39746,13 @@
 				"quest_index"		"521"
 				"->"		"22"
 				"->"		"27"
+				"story_block"
+				{
+					"expression"		" %525% "
+					"character_name"		"Hennequet"
+					"description"		"Op_Bloodhound_sebastien_521_new_turner"
+					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_521_turner_radio.mp3"
+				}
 				"story_block"
 				{
 					"character_name"		"Hennequet"
@@ -39666,6 +39787,13 @@
 			{
 				"quest_index"		"524"
 				"->"		"25"
+				"story_block"
+				{
+					"expression"		" %525% "
+					"character_name"		"Hennequet"
+					"description"		"Op_Bloodhound_sebastien_525_turner"
+					"audio_file"		"campaign/bloodhound/sebastien/op_bloodhound_sebastien_525_turner_radio.mp3"
+				}
 				"story_block"
 				{
 					"character_name"		"Hennequet"
@@ -39738,6 +39866,13 @@
 			"31"
 			{
 				"quest_index"		"531"
+				"story_block"
+				{
+					"expression"		" %525% "
+					"character_name"		"Booth"
+					"description"		"Op_Bloodhound_booth_531_turner"
+					"audio_file"		"campaign/bloodhound/booth/op_bloodhound_booth_531_turner_radio.mp3"
+				}
 				"story_block"
 				{
 					"character_name"		"Booth"
@@ -39859,6 +39994,13 @@
 				"->"		"29"
 				"story_block"
 				{
+					"expression"		" %525% "
+					"character_name"		"Valeria"
+					"description"		"Op_bloodhound_Valeria_labels_turner"
+					"audio_file"		"campaign/bloodhound/valeria/Op_bloodhound_Valeria_labels_turner.mp3"
+				}
+				"story_block"
+				{
 					"character_name"		"Valeria"
 					"description"		"Op_bloodhound_Valeria_meet_mentor_sub"
 					"audio_file"		"campaign/bloodhound/valeria/Op_bloodhound_Valeria_meet_mentor.mp3"
@@ -39869,6 +40011,13 @@
 				"quest_index"		"611"
 				"->"		"26"
 				"->"		"18"
+				"story_block"
+				{
+					"expression"		" %525% "
+					"character_name"		"Valeria"
+					"description"		"Op_bloodhound_Valeria_dead_turner_sub"
+					"audio_file"		"campaign/bloodhound/valeria/Op_bloodhound_Valeria_dead_turner.mp3"
+				}
 				"story_block"
 				{
 					"character_name"		"Turner"
@@ -39914,6 +40063,13 @@
 				"->"		"16"
 				"story_block"
 				{
+					"expression"		" %525% "
+					"character_name"		"Valeria"
+					"description"		"Op_bloodhound_Valeria_role_turner_sub"
+					"audio_file"		"campaign/bloodhound/valeria/Op_bloodhound_Valeria_role_turner.mp3"
+				}
+				"story_block"
+				{
 					"character_name"		"Turner"
 					"description"		"Op_bloodhound_turner_AWP"
 					"audio_file"		"campaign/bloodhound/turner/op_bloodhound_turner_AWP.mp3"
@@ -39937,6 +40093,13 @@
 				"->"		"25"
 				"story_block"
 				{
+					"expression"		" %525% "
+					"character_name"		"Valeria"
+					"description"		"Op_bloodhound_Valeria_pollock_turner_sub"
+					"audio_file"		"campaign/bloodhound/valeria/Op_bloodhound_Valeria_pollock_turner.mp3"
+				}
+				"story_block"
+				{
 					"character_name"		"Turner"
 					"description"		"Op_Bloodhound_Turner_headshot"
 					"audio_file"		"campaign/bloodhound/turner/Op_Bloodhound_Turner_headshot.mp3"
@@ -39946,6 +40109,13 @@
 			{
 				"quest_index"		"618"
 				"->"		"19"
+				"story_block"
+				{
+					"expression"		" %525% "
+					"character_name"		"Valeria"
+					"description"		"Op_bloodhound_Valeria_underhill_turner_sub"
+					"audio_file"		"campaign/bloodhound/valeria/Op_bloodhound_Valeria_underhill_turner.mp3"
+				}
 				"story_block"
 				{
 					"character_name"		"Turner"
@@ -39960,6 +40130,13 @@
 				"->"		"14"
 				"story_block"
 				{
+					"expression"		" %525% "
+					"character_name"		"Valeria"
+					"description"		"Op_bloodhound_Valeria_maghreb_turner_sub"
+					"audio_file"		"campaign/bloodhound/valeria/Op_bloodhound_Valeria_maghreb_turner.mp3"
+				}
+				"story_block"
+				{
 					"character_name"		"Turner"
 					"description"		"Op_Bloodhound_Turner_hero"
 					"audio_file"		"campaign/bloodhound/turner/Op_Bloodhound_Turner_hero.mp3"
@@ -39968,6 +40145,13 @@
 			"20"
 			{
 				"quest_index"		"620"
+				"story_block"
+				{
+					"expression"		" %525% "
+					"character_name"		"Valeria"
+					"description"		"Op_bloodhound_Valeria_bank_turner_sub"
+					"audio_file"		"campaign/bloodhound/valeria/Op_bloodhound_Valeria_bank_turner.mp3"
+				}
 				"story_block"
 				{
 					"character_name"		"Turner"
@@ -39982,6 +40166,13 @@
 				"->"		"20"
 				"story_block"
 				{
+					"expression"		" %525% "
+					"character_name"		"Valeria"
+					"description"		"Op_bloodhound_Valeria_fruitless_turner_sub"
+					"audio_file"		"campaign/bloodhound/valeria/Op_bloodhound_Valeria_fruitless_turner.mp3"
+				}
+				"story_block"
+				{
 					"character_name"		"Turner"
 					"description"		"Op_Bloodhound_Turner_chaos"
 					"audio_file"		"campaign/bloodhound/turner/Op_Bloodhound_Turner_chaos.mp3"
@@ -39991,6 +40182,13 @@
 			{
 				"quest_index"		"622"
 				"->"		"23"
+				"story_block"
+				{
+					"expression"		" %525% "
+					"character_name"		"Valeria"
+					"description"		"Op_bloodhound_Valeria_fear_turner_sub"
+					"audio_file"		"campaign/bloodhound/valeria/Op_bloodhound_Valeria_fear_turner.mp3"
+				}
 				"story_block"
 				{
 					"character_name"		"Turner"
@@ -40004,6 +40202,13 @@
 				"->"		"24"
 				"story_block"
 				{
+					"expression"		" %525% "
+					"character_name"		"Valeria"
+					"description"		"Op_bloodhound_Valeria_elysee_turner_sub"
+					"audio_file"		"campaign/bloodhound/valeria/Op_bloodhound_Valeria_elysee_turner.mp3"
+				}
+				"story_block"
+				{
 					"character_name"		"Turner"
 					"description"		"Op_Bloodhound_Turner_underhill"
 					"audio_file"		"campaign/bloodhound/turner/Op_Bloodhound_Turner_underhill.mp3"
@@ -40015,6 +40220,13 @@
 				"->"		"25"
 				"story_block"
 				{
+					"expression"		" %525% "
+					"character_name"		"Valeria"
+					"description"		"Op_bloodhound_Valeria_history_turner_sub"
+					"audio_file"		"campaign/bloodhound/valeria/Op_bloodhound_Valeria_history_turner.mp3"
+				}
+				"story_block"
+				{
 					"character_name"		"Turner"
 					"description"		"Op_Bloodhound_Turner_shame"
 					"audio_file"		"campaign/bloodhound/turner/Op_Bloodhound_Turner_shame.mp3"
@@ -40023,6 +40235,13 @@
 			"25"
 			{
 				"quest_index"		"625"
+				"story_block"
+				{
+					"expression"		" %525% "
+					"character_name"		"Valeria"
+					"description"		"Op_bloodhound_Valeria_blunt_turner_sub"
+					"audio_file"		"campaign/bloodhound/valeria/Op_bloodhound_Valeria_blunt_turner.mp3"
+				}
 				"story_block"
 				{
 					"character_name"		"Turner"
@@ -40036,6 +40255,13 @@
 				"->"		"13"
 				"story_block"
 				{
+					"expression"		" %525% "
+					"character_name"		"Valeria"
+					"description"		"Op_bloodhound_Valeria_journalist_turner_sub"
+					"audio_file"		"campaign/bloodhound/valeria/Op_bloodhound_Valeria_journalist_turner.mp3"
+				}
+				"story_block"
+				{
 					"character_name"		"Turner"
 					"description"		"Op_Bloodhound_Turner_journalist"
 					"audio_file"		"campaign/bloodhound/turner/Op_Bloodhound_Turner_journalist.mp3"
@@ -40045,6 +40271,13 @@
 			{
 				"quest_index"		"626"
 				"->"		"21"
+				"story_block"
+				{
+					"expression"		" %525% "
+					"character_name"		"Valeria"
+					"description"		"Op_bloodhound_Valeria_cobble_turner_sub"
+					"audio_file"		"campaign/bloodhound/valeria/Op_bloodhound_Valeria_cobble_turner.mp3"
+				}
 				"story_block"
 				{
 					"character_name"		"Turner"

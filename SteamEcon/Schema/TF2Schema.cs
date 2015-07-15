@@ -98,6 +98,9 @@ namespace TF2Schema
 
         [JsonProperty("collectors")]
         public int Collectors { get; set; }
+
+        [JsonProperty("paintkitweapon")]
+        public int Paintkitweapon { get; set; }
     }
     public class QualityNames
     {
@@ -146,6 +149,9 @@ namespace TF2Schema
 
         [JsonProperty("collectors")]
         public string Collectors { get; set; }
+
+        [JsonProperty("paintkitweapon")]
+        public string Paintkitweapon { get; set; }
     }
     public class OriginName
     {

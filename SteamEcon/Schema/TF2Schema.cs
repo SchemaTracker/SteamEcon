@@ -219,11 +219,11 @@ namespace TF2Schema
         [JsonProperty("used_by_classes")]
         public IList<string> UsedByClasses { get; set; }
 
-        [JsonProperty("styles")]
-        public IList<Style> Styles { get; set; }
-
         [JsonProperty("item_description")]
         public string ItemDescription { get; set; }
+
+        [JsonProperty("styles")]
+        public IList<Style> Styles { get; set; }
 
         [JsonProperty("attributes")]
         public IList<Attribute> Attributes { get; set; }

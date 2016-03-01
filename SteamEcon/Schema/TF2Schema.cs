@@ -249,6 +249,9 @@ namespace TF2Schema
         [JsonProperty("nameable")]
         public bool Nameable { get; set; }
 
+        [JsonProperty("can_gift_wrap")]
+        public bool CanGiftWrap { get; set; }
+
         [JsonProperty("can_craft_mark")]
         public bool CanCraftMark { get; set; }
 
@@ -269,9 +272,6 @@ namespace TF2Schema
 
         [JsonProperty("can_consume")]
         public bool CanConsume { get; set; }
-
-        [JsonProperty("can_gift_wrap")]
-        public bool? CanGiftWrap { get; set; }
 
         [JsonProperty("can_collect")]
         public bool? CanCollect { get; set; }

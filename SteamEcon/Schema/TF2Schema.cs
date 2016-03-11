@@ -326,6 +326,9 @@ namespace TF2Schema
 
         [JsonProperty("head")]
         public int? Head { get; set; }
+
+        [JsonProperty("grenades")]
+        public int? Grenades { get; set; }
     }
     public class Attribute
     {

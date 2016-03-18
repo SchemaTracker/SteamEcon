@@ -366,11 +366,11 @@ namespace TF2Schema
         [JsonProperty("type")]
         public string Type { get; set; }
 
-        [JsonProperty("usage_capabilities")]
-        public UsageCapabilities UsageCapabilities { get; set; }
-
         [JsonProperty("use_string")]
         public string UseString { get; set; }
+
+        [JsonProperty("usage_capabilities")]
+        public UsageCapabilities UsageCapabilities { get; set; }
 
         [JsonProperty("restriction")]
         public string Restriction { get; set; }

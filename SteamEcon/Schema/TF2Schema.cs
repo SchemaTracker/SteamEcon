@@ -285,6 +285,9 @@ namespace TF2Schema
         [JsonProperty("can_craft_count")]
         public bool? CanCraftCount { get; set; }
 
+        [JsonProperty("can_unusualify")]
+        public bool? CanUnusualify { get; set; }
+
         [JsonProperty("usable_gc")]
         public bool? UsableGc { get; set; }
 
@@ -413,6 +416,9 @@ namespace TF2Schema
 
         [JsonProperty("can_spell_page")]
         public bool? CanSpellPage { get; set; }
+
+        [JsonProperty("can_unusualify")]
+        public bool? CanUnusualify { get; set; }
 
         [JsonProperty("can_consume")]
         public bool? CanConsume { get; set; }

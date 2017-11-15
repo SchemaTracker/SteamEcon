@@ -13876,7 +13876,7 @@
 				"inaccuracy jump alt"		"158.419998"
 				"heat per shot"		"0.500000"
 				"max player speed"		"240"
-				"in game price"		"500"
+				"in game price"		"400"
 				"armor ratio"		"1.150000"
 				"penetration"		"1"
 				"damage"		"38"
@@ -18531,7 +18531,7 @@
 				"icon display model"		"models/weapons/w_pist_revolver_icon.mdl"
 				"is revolver"		"1"
 				"is full auto"		"1"
-				"in game price"		"700"
+				"in game price"		"600"
 				"primary clip size"		"8"
 				"primary reserve ammo max"		"8"
 				"crosshair min distance"		"4"
@@ -23140,6 +23140,84 @@
 			"attributes"
 			{
 				"pedestal display model"		"models/inventory_items/collectible_pin_tactics.mdl"
+			}
+		}
+		"1367"
+		{
+			"name"		"prestige coin 2018"
+			"prefab"		"prestige_coin"
+			"item_name"		"#CSGO_Collectible_GlobalGeneral2018"
+			"item_description"		"#CSGO_Collectible_Desc_GlobalGeneral2018"
+			"image_inventory"		"econ/status_icons/service_medal_2018_lvl1"
+			"attributes"
+			{
+				"prestige year"		"2018"
+				"pedestal display model"		"models/inventory_items/service_medal_2018_lvl1.mdl"
+			}
+		}
+		"1368"
+		{
+			"name"		"prestige coin 2018 level 2"
+			"prefab"		"prestige_coin"
+			"item_name"		"#CSGO_Collectible_GlobalGeneral2018"
+			"item_description"		"#CSGO_Collectible_Desc_GlobalGeneral2018"
+			"image_inventory"		"econ/status_icons/service_medal_2018_lvl2"
+			"attributes"
+			{
+				"prestige year"		"2018"
+				"pedestal display model"		"models/inventory_items/service_medal_2018_lvl2.mdl"
+			}
+		}
+		"1369"
+		{
+			"name"		"prestige coin 2018 level 3"
+			"prefab"		"prestige_coin"
+			"item_name"		"#CSGO_Collectible_GlobalGeneral2018"
+			"item_description"		"#CSGO_Collectible_Desc_GlobalGeneral2018"
+			"image_inventory"		"econ/status_icons/service_medal_2018_lvl3"
+			"attributes"
+			{
+				"prestige year"		"2018"
+				"pedestal display model"		"models/inventory_items/service_medal_2018_lvl3.mdl"
+			}
+		}
+		"1370"
+		{
+			"name"		"prestige coin 2018 level 4"
+			"prefab"		"prestige_coin"
+			"item_name"		"#CSGO_Collectible_GlobalGeneral2018"
+			"item_description"		"#CSGO_Collectible_Desc_GlobalGeneral2018"
+			"image_inventory"		"econ/status_icons/service_medal_2018_lvl4"
+			"attributes"
+			{
+				"prestige year"		"2018"
+				"pedestal display model"		"models/inventory_items/service_medal_2018_lvl4.mdl"
+			}
+		}
+		"1371"
+		{
+			"name"		"prestige coin 2018 level 5"
+			"prefab"		"prestige_coin"
+			"item_name"		"#CSGO_Collectible_GlobalGeneral2018"
+			"item_description"		"#CSGO_Collectible_Desc_GlobalGeneral2018"
+			"image_inventory"		"econ/status_icons/service_medal_2018_lvl5"
+			"attributes"
+			{
+				"prestige year"		"2018"
+				"pedestal display model"		"models/inventory_items/service_medal_2018_lvl5.mdl"
+			}
+		}
+		"1372"
+		{
+			"name"		"prestige coin 2018 level 6"
+			"prefab"		"prestige_coin"
+			"item_name"		"#CSGO_Collectible_GlobalGeneral2018"
+			"item_description"		"#CSGO_Collectible_Desc_GlobalGeneral2018"
+			"image_inventory"		"econ/status_icons/service_medal_2018_lvl6"
+			"attributes"
+			{
+				"prestige year"		"2018"
+				"pedestal display model"		"models/inventory_items/service_medal_2018_lvl6.mdl"
 			}
 		}
 		"4001"
@@ -29456,6 +29534,30 @@
 			"loot_list_name"		"coupon loot list - radicals_stattrak_musickit_capsule"
 			"prefab"		"coupon_radicals_capsule_prefab"
 			"will_produce_stattrak"		"1"
+		}
+		"20134"
+		{
+			"name"		"coupon - illuminate_capsule_01"
+			"item_name"		"#coupon_illuminate_capsule_01"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - illuminate_capsule_01"
+			"prefab"		"valve coupon_prefab"
+		}
+		"20135"
+		{
+			"name"		"coupon - illuminate_capsule_02"
+			"item_name"		"#coupon_illuminate_capsule_02"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - illuminate_capsule_02"
+			"prefab"		"valve coupon_prefab"
+		}
+		"20136"
+		{
+			"name"		"coupon - illuminate_sprays_capsule_01"
+			"item_name"		"#coupon_illuminate_sprays_capsule_01"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - illuminate_sprays_capsule_01"
+			"prefab"		"valve coupon_prefab"
 		}
 	}
 	"attributes"
@@ -48225,6 +48327,8 @@
 			"description_tag"		"#PaintKit_aq_p250_cartel_Tag"
 			"style"		"8"
 			"pattern"		"workshop/P250_CARTEL"
+			"normal"		"workshop/p250_cartel_normal"
+			"use_normal"		"1"
 			"color0"		"128 128 128 255"
 			"color1"		"150 150 150 255"
 			"color2"		"96 96 96 255"
@@ -48362,6 +48466,8 @@
 			"description_tag"		"#PaintKit_aq_p250_cartel_Tag"
 			"style"		"8"
 			"pattern"		"workshop/AK47_CARTEL"
+			"normal"		"workshop/AK47_CARTEL_normal"
+			"use_normal"		"1"
 			"color0"		"128 128 128 255"
 			"color1"		"150 150 150 255"
 			"color2"		"96 96 96 255"
@@ -51441,6 +51547,8 @@
 			"description_tag"		"#PaintKit_aq_p250_cartel_Tag"
 			"style"		"8"
 			"pattern"		"workshop/dualberettas_cartel"
+			"normal"		"workshop/dual_berettas_cartel_normal"
+			"use_normal"		"1"
 			"color0"		"135 135 135"
 			"color1"		"121 121 121"
 			"color2"		"96 96 96 255"
@@ -57316,6 +57424,21 @@
 			"public_list_contents"		"1"
 			"crate_musickit_radicals_stattrak_capsule"		"1"
 		}
+		"coupon loot list - illuminate_capsule_01"
+		{
+			"public_list_contents"		"1"
+			"crate_sticker_pack_illuminate_capsule_01"		"1"
+		}
+		"coupon loot list - illuminate_capsule_02"
+		{
+			"public_list_contents"		"1"
+			"crate_sticker_pack_illuminate_capsule_02"		"1"
+		}
+		"coupon loot list - illuminate_sprays_capsule_01"
+		{
+			"public_list_contents"		"1"
+			"crate_sprays_illuminate1"		"1"
+		}
 	}
 	"revolving_loot_lists"
 	{
@@ -62722,27 +62845,6 @@
 			"gamemode"		"scrimcomp5v5"
 			"mapgroup"		"mg_de_canals"
 		}
-		"10031"
-		{
-			"name"		"event_op08_skirmish_old_1"
-			"is_an_event"		"1"
-			"gamemode"		"skirmish"
-			"mapgroup"		"mg_skirmish_1"
-		}
-		"10032"
-		{
-			"name"		"event_op08_skirmish_old_2"
-			"is_an_event"		"1"
-			"gamemode"		"skirmish"
-			"mapgroup"		"mg_skirmish_2"
-		}
-		"10033"
-		{
-			"name"		"event_op08_skirmish_old_3"
-			"is_an_event"		"1"
-			"gamemode"		"skirmish"
-			"mapgroup"		"mg_skirmish_3"
-		}
 		"10034"
 		{
 			"name"		"event_op08_skirmish_all"
@@ -65343,6 +65445,26 @@
 			"icon"		"icon-skirmish-has"
 			"gamemode"		"casual"
 			"server_exec"		"execwithwhitelist op08_heavy_assault_suit.cfg"
+		}
+		"10"
+		{
+			"name"		"armsrace"
+			"loc_name"		"Skirmish_AR_name"
+			"loc_rules"		"Skirmish_AR_rules"
+			"loc_description"		"Skirmish_AR_desc"
+			"loc_details"		"Skirmish_AR_details"
+			"icon"		"icon-gungameprogressive"
+			"gamemode"		"gungameprogressive"
+		}
+		"11"
+		{
+			"name"		"demolition"
+			"loc_name"		"Skirmish_DEM_name"
+			"loc_rules"		"Skirmish_DEM_rules"
+			"loc_description"		"Skirmish_DEM_desc"
+			"loc_details"		"Skirmish_DEM_details"
+			"icon"		"icon-gungametrbomb"
+			"gamemode"		"gungametrbomb"
 		}
 	}
 	"skirmish_rank_info"
@@ -101527,6 +101649,8 @@
 			"description_tag"		"#PaintKit_gs_autotronic_Tag"
 			"style"		"9"
 			"pattern"		"bayonet_future_alt"
+			"normal"		"bayonet_future_alt_normal"
+			"use_normal"		"1"
 			"color0"		"255 255 255"
 			"color1"		"255 255 255"
 			"color2"		"146 141 132"
@@ -101554,6 +101678,8 @@
 			"description_tag"		"#PaintKit_gs_autotronic_Tag"
 			"style"		"9"
 			"pattern"		"flip_future"
+			"normal"		"flip_future_normal"
+			"use_normal"		"1"
 			"color0"		"255 255 255"
 			"color1"		"255 255 255"
 			"color2"		"162 155 141"
@@ -101581,6 +101707,8 @@
 			"description_tag"		"#PaintKit_gs_autotronic_Tag"
 			"style"		"9"
 			"pattern"		"gut_future"
+			"normal"		"gut_future_normal"
+			"use_normal"		"1"
 			"color0"		"255 255 255"
 			"color1"		"255 255 255"
 			"color2"		"208 201 188"
@@ -101608,6 +101736,8 @@
 			"description_tag"		"#PaintKit_gs_autotronic_Tag"
 			"style"		"9"
 			"pattern"		"karam_future"
+			"normal"		"karam_future_normal"
+			"use_normal"		"1"
 			"color0"		"255 255 255"
 			"color1"		"255 255 255"
 			"color2"		"97 85 61"
@@ -101635,6 +101765,8 @@
 			"description_tag"		"#PaintKit_gs_autotronic_Tag"
 			"style"		"9"
 			"pattern"		"m9_bay_future"
+			"normal"		"m9_bay_future_normal"
+			"use_normal"		"1"
 			"color0"		"255 255 255"
 			"color1"		"255 255 255"
 			"color2"		"208 201 188"
@@ -104755,6 +104887,8 @@
 			"description_tag"		"#PaintKit_gs_ump_abyss_Tag"
 			"style"		"9"
 			"pattern"		"workshop/ump_abyss"
+			"normal"		"workshop/ump_abyss_normal"
+			"use_normal"		"1"
 			"color0"		"128 128 128 255"
 			"color1"		"242 240 240"
 			"color2"		"198 195 195"
@@ -106116,7 +106250,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_cheongsam_1"
 			"sticker_material"		"illuminate_capsule_01/cheongsam_1"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2389"
 		{
@@ -106125,7 +106258,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_cheongsam_2"
 			"sticker_material"		"illuminate_capsule_01/cheongsam_2"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2390"
 		{
@@ -106134,7 +106266,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_cheongsam_2_holo"
 			"sticker_material"		"illuminate_capsule_01/cheongsam_2_holo"
 			"item_rarity"		"mythical"
-			"cannot_trade"		"1"
 		}
 		"2391"
 		{
@@ -106143,7 +106274,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_koi_2"
 			"sticker_material"		"illuminate_capsule_01/koi_2"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2392"
 		{
@@ -106152,7 +106282,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_koi_2_foil"
 			"sticker_material"		"illuminate_capsule_01/koi_2_foil"
 			"item_rarity"		"legendary"
-			"cannot_trade"		"1"
 		}
 		"2393"
 		{
@@ -106161,7 +106290,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_chinese_dragon"
 			"sticker_material"		"illuminate_capsule_01/chinese_dragon"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2394"
 		{
@@ -106170,7 +106298,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_chinese_dragon_foil"
 			"sticker_material"		"illuminate_capsule_01/chinese_dragon_foil"
 			"item_rarity"		"legendary"
-			"cannot_trade"		"1"
 		}
 		"2395"
 		{
@@ -106179,7 +106306,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_hotpot"
 			"sticker_material"		"illuminate_capsule_01/hotpot"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2396"
 		{
@@ -106188,7 +106314,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_noodles"
 			"sticker_material"		"illuminate_capsule_01/noodles"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2397"
 		{
@@ -106197,7 +106322,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_rice"
 			"sticker_material"		"illuminate_capsule_01/rice"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2398"
 		{
@@ -106206,7 +106330,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_rice_pudding"
 			"sticker_material"		"illuminate_capsule_01/rice_pudding"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2399"
 		{
@@ -106215,7 +106338,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_mahjong_fa"
 			"sticker_material"		"illuminate_capsule_01/mahjong_fa"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2400"
 		{
@@ -106224,7 +106346,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_mahjong_rooster"
 			"sticker_material"		"illuminate_capsule_01/mahjong_rooster"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2401"
 		{
@@ -106233,7 +106354,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_mahjong_zhong"
 			"sticker_material"		"illuminate_capsule_01/mahjong_zhong"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2402"
 		{
@@ -106242,7 +106362,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_toytiger"
 			"sticker_material"		"illuminate_capsule_01/toytiger"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 	}
 	"items"
@@ -106321,7 +106440,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_god_of_fortune"
 			"sticker_material"		"illuminate_capsule_02/god_of_fortune"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2404"
 		{
@@ -106330,7 +106448,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_huaji"
 			"sticker_material"		"illuminate_capsule_02/huaji"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2405"
 		{
@@ -106339,7 +106456,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_nezha"
 			"sticker_material"		"illuminate_capsule_02/nezha"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2406"
 		{
@@ -106348,7 +106464,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_fury"
 			"sticker_material"		"illuminate_capsule_02/fury"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2407"
 		{
@@ -106357,7 +106472,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_longevity"
 			"sticker_material"		"illuminate_capsule_02/longevity"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2408"
 		{
@@ -106366,7 +106480,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_longevity_foil"
 			"sticker_material"		"illuminate_capsule_02/longevity_foil"
 			"item_rarity"		"legendary"
-			"cannot_trade"		"1"
 		}
 		"2409"
 		{
@@ -106375,7 +106488,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_panda"
 			"sticker_material"		"illuminate_capsule_02/panda"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2410"
 		{
@@ -106384,7 +106496,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_pixiu"
 			"sticker_material"		"illuminate_capsule_02/pixiu"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2411"
 		{
@@ -106393,7 +106504,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_pixiu_foil"
 			"sticker_material"		"illuminate_capsule_02/pixiu_foil"
 			"item_rarity"		"legendary"
-			"cannot_trade"		"1"
 		}
 		"2412"
 		{
@@ -106402,7 +106512,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_red_koi"
 			"sticker_material"		"illuminate_capsule_02/red_koi"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2413"
 		{
@@ -106411,7 +106520,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_red_koi_holo"
 			"sticker_material"		"illuminate_capsule_02/red_koi_holo"
 			"item_rarity"		"mythical"
-			"cannot_trade"		"1"
 		}
 		"2414"
 		{
@@ -106420,7 +106528,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_shaolin_1"
 			"sticker_material"		"illuminate_capsule_02/shaolin_1"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2415"
 		{
@@ -106429,7 +106536,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_swallow_1"
 			"sticker_material"		"illuminate_capsule_02/swallow_1"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2416"
 		{
@@ -106438,7 +106544,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_swallow_2"
 			"sticker_material"		"illuminate_capsule_02/swallow_2"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 		"2417"
 		{
@@ -106447,7 +106552,6 @@
 			"description_string"		"#StickerKit_desc_illuminate_zombie"
 			"sticker_material"		"illuminate_capsule_02/zombie"
 			"item_rarity"		"rare"
-			"cannot_trade"		"1"
 		}
 	}
 	"items"
